@@ -3585,7 +3585,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
     case 'donasi': case 'donate': case 'sewabot': case 'sewa': {
-                RedDragonMdNx.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/BtHBJDv/donate.jpg' }, caption: `*Hi, ${m.pushName}*\nI am ☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰\nCreated By: *Malindu Nimsara*\nඅනේ නිකන් පලයන් බන් යන්න, බොරුවට එනව ඩොනේට් කරන්න😂💔\n` }, { quoted: m })
+                RedDragonMdNx.sendMessage(m.chat, { image: { url: 'https://data.1freewallpapers.com/download/samantha-hot-1600x900.jpg' }, caption: `*Hi, ${m.pushName}*\nI am ☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰\nCreated By: *Malindu Nimsara*\nඅනේ නිකන් පලයන් බන් යන්න, බොරුවට එනව ඩොනේට් කරන්න😂💔\n` }, { quoted: m })
             }
             break
             case 'sc': case 'script': {
