@@ -3601,7 +3601,7 @@ case 'allmenu': case 'menuall': {
                 let buttons = [
                     {buttonId: `${prefix}owner`, buttonText: {displayText: '❮❮👨‍💻OWNER👨‍💻❯❯'}, type: 1}]
                 let buttonMessage = {
-                    image: { url: 'https://i.ibb.co/PN8NLfT/darkdevil.jpg'},
+                    image: { url: 'https://cdn.mos.cms.futurecdn.net/vTntGBXKNuSRtekGMofxDN.jpg'},
                 caption: `*𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰\n\nHello, ${pushname}\n\n┏━❯ ${pushname}━❤️‍🔥\n┃
 ┃╔══☯︎❯ MAIN ❮💞👇
 ┃║
