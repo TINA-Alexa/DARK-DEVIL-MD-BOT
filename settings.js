@@ -20,29 +20,45 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `____________` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `─ ⋞ 〈🛑 *🄷🄴🅈 🅃🄷🄴🅁🄴* 🛑〉 ⋟ ─
 
-global.owner = ['____________'] //Owner number in aive msg
-global.premium = ['____________'] //Owner Number info
-global.ownernomer = '____________' //Owner Number <<<
+⫺ ╤╤╧╧╤╤ ⋞ 〈 ⫹⫺ 〉 ⋟ ╤╤╧╧╤╤ ⫹
+┋   ‍  ‍ 🔴 *𝐁𝐨𝐭 𝐎𝐧𝐥𝐢𝐧𝐞 𝐍𝐎𝐖* ‼️
+⫺ ╧╧╧╧╧╧ ⋞ 〈 ⫹⫺ 〉 ⋟ ╧╧╧╧╧╧ ⫹
+┋
+┋ ‍ ❯❯ *🅱️🅾️🆃 🅸🅽🅵🅾️* ❮❮
+┋
+┋⛥❮ *𝚂𝚙𝚎𝚎𝚍*❯ *0.0111 𝘔𝘪𝘭𝘪𝘴𝘦𝘤𝘰𝘯𝘥𝘴*
+┋⛥❮ *𝚁𝚞𝚗𝚝𝚒𝚖𝚎*❯ *10 𝘏𝘰𝘶𝘳𝘴,49 𝘔𝘪𝘯𝘶𝘵𝘦𝘴*
+┋⛥❮ *𝙱𝚘𝚝 𝙽𝚊𝚖𝚎*❯ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*
+┋⛥❮ *𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖*❯ *𝘓𝘪𝘯𝘶𝘹*
+┋⛥❮ *𝚃𝚘𝚝𝚊𝚕 𝚄𝚜𝚎𝚛*❯ *999*
+┋⛥❮ *𝙾𝚠𝚗𝚎𝚛   𝙽𝚊𝚖𝚎*❯ *𝚆𝚊_𝚋𝚘𝚝 24/7*
+┋⛥❮ *𝙾𝚠𝚗𝚎𝚛 𝙽𝚞𝚖𝚋𝚎𝚛*❯ +94758663348
+┋
+⫺ ╧╧╧╧╧╧ ⋞ 〈 ⫹⫺ 〉 ⋟ ╧╧╧╧╧╧ ⫹` //Costomize Alive Message (type your message in `` )
 
-global.ownername = 'Maͥliͣnͫdu Nimsara❦🇱🇰' //Owner Name
-global.botname = '𝙳𝙰𝚁𝙺⚓𝙳𝙴𝚅𝙸𝙻-𝙱𝙾𝚃✨' //Bot Name
+global.owner = ['+94758663348'] //Owner number in aive msg
+global.premium = ['+94758663348'] //Owner Number info
+global.ownernomer = '+94758663348' //Owner Number <<<
+
+global.ownername = '💆‍♂️𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙_𝚋𝚘𝚝 #24/7💆‍♂️' //Owner Name
+global.botname = '𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵' //Bot Name
 
 global.button = '🖥️GITHUB〽️' //Costomize A Button Name In Alive Message
 global.btnurl = '____________' //Change Your Button's URL
 
 global.region = 'srilanka' //Country Region
 
-global.packname = '____________' //Bot Pacage Name
-global.author = '____________' //Author Name
+global.packname = '𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵' //Bot Pacage Name
+global.author = '#24/7💆‍' //Author Name
 global.prefa = ['','❗','.','😂','👹','🎊'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
 
 
 global.ig = '____________' //Github Account!
-global.footer = '____________' // DO NOT CHANGE!
+global.footer = '💆‍𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
