@@ -102,7 +102,7 @@ const nexusnw = require('xfarr-api')
    const isInventoryMonay = cekDuluJoinAdaApaKagaMonaynyaDiJson(m.sender)
    const ikan = ['🐟','🐠','🐡']   
 //\\
-global.namedd = '╚✺➾ ☬𝘿𝘼𝙍𝙆☳𝘿𝙀𝙑𝙄𝙇-𝐁𝐎𝐓🇱🇰'
+global.namedd = '╚✺➾ ☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰'
 //rpg database\\
  let _limit = JSON.parse(fs.readFileSync('./storage/user/limit.json'));
  let _buruan = JSON.parse(fs.readFileSync('./storage/user/hasil_buruan.json'));
@@ -202,11 +202,11 @@ module.exports = RedDragonMdNx = async (RedDragonMdNx, m, chatUpdate, store) => 
 	
 	//group target \\
 const reply = (teks) => {
-            RedDragonMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` ☬𝘿𝘼𝙍𝙆☳𝘿𝙀𝙑𝙄𝙇-𝐁𝐎𝐓🇱🇰`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./DevilMedia/image/dark-devil.jpg`),"sourceUrl": "https://i.ibb.co/7zP068j/DEVIL-PHISH.jpg"}}}, { quoted: m})
+            RedDragonMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` ☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./DevilMedia/image/dark-devil.jpg`),"sourceUrl": "https://i.ibb.co/7zP068j/DEVIL-PHISH.jpg"}}}, { quoted: m})
         }
         
         const replay = (teks) => {
-            RedDragonMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` ☬𝘿𝘼𝙍𝙆☳𝘿𝙀𝙑𝙄𝙇-𝐁𝐎𝐓🇱🇰`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./DevilMedia/image/dark-devil.jpg`),"sourceUrl": "https://i.ibb.co/7zP068j/DEVIL-PHISH.jpg"}}}, { quoted: m})
+            RedDragonMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` ☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./DevilMedia/image/dark-devil.jpg`),"sourceUrl": "https://i.ibb.co/7zP068j/DEVIL-PHISH.jpg"}}}, { quoted: m})
         }
 	
         //Public & Self\\
@@ -2089,7 +2089,7 @@ break
                 let buttonMessage = {
                     image: { url: anu.thumbnail },
                     caption: `
-═════👹☬𝘿𝘼𝙍𝙆☳𝘿𝙀𝙑𝙄𝙇-𝐁𝐎𝐓🇱🇰══════╗\n
+═════👹☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰══════╗\n
 ──────💕𝒀𝒐𝒖𝑻𝒖𝒃𝒆 𝑫𝒐𝒘𝒏𝒍𝒐𝒅𝒆𝒓💕────────\n
 ⛄ *Title* : ${anu.title}
 📺 *Channel* : ${anu.author.url}
@@ -2149,7 +2149,7 @@ break
                 let quality = args[1] ? args[1] : '360p'
                 let media = await ytv(urls[text - 1], quality)
                 if (media.filesize >= 100000) return reply('File Over Limit '+util.format(media))
-                RedDragonMdNx.sendMessage(m.chat, { video: { url: media.dl_link }, mimetype: 'video/mp4', fileName: `${media.title}.mp4`, caption: `👺☬𝘿𝘼𝙍𝙆☳𝘿𝙀𝙑𝙄𝙇-𝐁𝐎𝐓🇱🇰\n\n🎸📸 Title : ${media.title}\n🎸📸 File Size : ${media.filesizeF}\n🎸📸 Url : ${urls[text - 1]}\n🎸📸 Ext : MP3\n🎸📸 Resolution : ${args[1] || '360p'}\n\nPOWERD BY:  ${botname}` }, { quoted: m })
+                RedDragonMdNx.sendMessage(m.chat, { video: { url: media.dl_link }, mimetype: 'video/mp4', fileName: `${media.title}.mp4`, caption: `👺☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰\n\n🎸📸 Title : ${media.title}\n🎸📸 File Size : ${media.filesizeF}\n🎸📸 Url : ${urls[text - 1]}\n🎸📸 Ext : MP3\n🎸📸 Resolution : ${args[1] || '360p'}\n\nPOWERD BY:  ${botname}` }, { quoted: m })
             }
             break
             case 'pinterest': {
@@ -2305,7 +2305,7 @@ case 'webtonsearch': case 'webtoon':
                 ]
                 let buttonMessage = {
                     image: { url: result.image[0] },
-                    caption: `👺☬𝘿𝘼𝙍𝙆☳𝘿𝙀𝙑𝙄𝙇-𝐁𝐎𝐓🇱🇰\n\n🎸📸 Title : ${result.title}\n🎸📸 Category : ${result.type}\n🎸📸 Detail : ${result.source}\n🎸📸 Media Url : ${result.image[2] || result.image[1] || result.image[0]}`,
+                    caption: `👺☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰\n\n🎸📸 Title : ${result.title}\n🎸📸 Category : ${result.type}\n🎸📸 Detail : ${result.source}\n🎸📸 Media Url : ${result.image[2] || result.image[1] || result.image[0]}`,
                     footer: RedDragonMdNx.user.name,
                     buttons: buttons,
                     headerType: 4
@@ -2323,7 +2323,7 @@ case 'webtonsearch': case 'webtoon':
                 ]
                 let buttonMessage = {
                     image: { url: result.image },
-                    caption: `👺☬𝘿𝘼𝙍𝙆☳𝘿𝙀𝙑𝙄𝙇-𝐁𝐎𝐓🇱🇰\n\n🎸📸 Title : ${result.title}\n🎸📸 Source : ${result.source}\n🎸📸 Media Url : ${result.image}`,
+                    caption: `👺☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰\n\n🎸📸 Title : ${result.title}\n🎸📸 Source : ${result.source}\n🎸📸 Media Url : ${result.image}`,
                     footer: RedDragonMdNx.user.name,
                     buttons: buttons,
                     headerType: 4
@@ -3257,7 +3257,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             }
             break
             case 'info': case 'about':{
-                reply(`🤭🌹Hi,\nI am ☬𝘿𝘼𝙍𝙆☳𝘿𝙀𝙑𝙄𝙇-𝐁𝐎𝐓🇱🇰\nCreated by: Malindu Nimsara\n\nᴅᴇᴠɪʟ ʙᴏᴛ © ᴘʀɪᴠᴇᴛ ᴇᴅɪᴛɪᴏɴ`)
+                reply(`🤭🌹Hi,\nI am ☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰\nCreated by: Malindu Nimsara\n\nᴅᴇᴠɪʟ ʙᴏᴛ © ᴘʀɪᴠᴇᴛ ᴇᴅɪᴛɪᴏɴ`)
             }
             break
         //chat bot\\
@@ -3585,7 +3585,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
     case 'donasi': case 'donate': case 'sewabot': case 'sewa': {
-                RedDragonMdNx.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/BtHBJDv/donate.jpg' }, caption: `*Hi, ${m.pushName}*\nI am ☬𝘿𝘼𝙍𝙆☳𝘿𝙀𝙑𝙄𝙇-𝐁𝐎𝐓🇱🇰\nCreated By: *Malindu Nimsara*\nඅනේ නිකන් පලයන් බන් යන්න, බොරුවට එනව ඩොනේට් කරන්න😂💔\n` }, { quoted: m })
+                RedDragonMdNx.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/BtHBJDv/donate.jpg' }, caption: `*Hi, ${m.pushName}*\nI am ☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰\nCreated By: *Malindu Nimsara*\nඅනේ නිකන් පලයන් බන් යන්න, බොරුවට එනව ඩොනේට් කරන්න😂💔\n` }, { quoted: m })
             }
             break
             case 'sc': case 'script': {
@@ -3602,7 +3602,7 @@ case 'allmenu': case 'menuall': {
                     {buttonId: `${prefix}owner`, buttonText: {displayText: '❮❮👨‍💻OWNER👨‍💻❯❯'}, type: 1}]
                 let buttonMessage = {
                     image: { url: 'https://i.ibb.co/PN8NLfT/darkdevil.jpg'},
-                caption: `*𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰\n\nHello, ${pushname}\n\n┏━❯ *${botname}* ❮━❤️‍🔥\n┃
+                caption: `*𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰\n\nHello, ${pushname}\n\n┏━❯ *${}* ❮━❤️‍🔥\n┃
 ┃╔══☯︎❯ MAIN ❮💞👇
 ┃║
 ┃╠💆‍ alive
