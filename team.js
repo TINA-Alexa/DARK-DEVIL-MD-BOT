@@ -3602,320 +3602,320 @@ case 'allmenu': case 'menuall': {
                     {buttonId: `${prefix}owner`, buttonText: {displayText: '❮❮👨‍💻OWNER👨‍💻❯❯'}, type: 1}]
                 let buttonMessage = {
                     image: { url: 'https://i.ibb.co/PN8NLfT/darkdevil.jpg'},
-                caption: `❤️‍🔥☬𝘿𝘼𝙍𝙆☳𝘿𝙀𝙑𝙄𝙇-𝐁𝐎𝐓🇱🇰\n\nHello, ${pushname}\n\n┏━❯ *${botname}* ❮━❤️‍🔥\n┃
+                caption: `*𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰\n\nHello, ${pushname}\n\n┏━❯ *${botname}* ❮━❤️‍🔥\n┃
 ┃╔══☯︎❯ MAIN ❮💞👇
 ┃║
-┃╠♞👺 alive
-┃╠♞👺 info
-┃╠♞👺 script
-┃╠♞👺 speedtest
-┃╠♞👺 ping
-┃╠♞👺 owner
-┃╠♞👺 menu
-┃╠♞👺 delete
-┃╠♞👺 chatinfo
-┃╠♞👺 quoted
-┃╠♞👺 donate
-┃╠♞👺 report [bug]
+┃╠💆‍ alive
+┃╠💆‍♂️ info
+┃╠💆‍♂️ script
+┃╠💆‍♂️ speedtest
+┃╠💆‍♂️ ping
+┃╠💆‍♂️ owner
+┃╠💆‍♂️ menu
+┃╠💆‍♂️ delete
+┃╠💆‍♂️ chatinfo
+┃╠💆‍♂️ quoted
+┃╠💆‍♂️ donate
+┃╠💆‍♂️ report [bug]
 ┃║
 ┃╠🔥══☬❯ 𝗚𝗶𝗿𝗹 𝗩𝗼𝗶𝗰𝗲 𝗖𝗹𝗶𝗽𝘀 ❮💞👇
 ┃║
-┃╠♞👺 Hi
-┃╠♞👺 gn
-┃╠♞👺 gm
-┃╠♞👺 akke
-┃╠♞👺 adarei
-┃╠♞👺 baba eka
-┃╠♞👺 good night
-┃╠♞👺 good morning
-┃╠♞👺 fuck you
-┃╠♞👺 balli
-┃╠♞👺 baduwa
-┃╠♞👺 bitch
-┃╠♞👺 balaganin
-┃╠♞👺 bb ek
-┃╠♞👺 na na
-┃╠♞👺 namgi
-┃╠♞👺 pala
-┃╠♞👺 mk
-┃╠♞👺 marilada
+┃╠💆‍♂️ Hi
+┃╠💆‍♂️ gn
+┃╠💆‍♂️ gm
+┃╠💆‍♂️ akke
+┃╠💆‍♂️ adarei
+┃╠💆‍♂️ baba eka
+┃╠💆‍♂️ good night
+┃╠💆‍♂️ good morning
+┃╠💆‍♂️ fuck you
+┃╠💆‍♂️ balli
+┃╠💆‍♂️ baduwa
+┃╠💆‍♂️ bitch
+┃╠💆‍♂️ balaganin
+┃╠💆‍♂️ bb ek
+┃╠💆‍♂️ na na
+┃╠💆‍♂️ namgi
+┃╠💆‍♂️ pala
+┃╠💆‍♂️ mk
+┃╠💆‍♂️ marilada
 ┃║
 ┃╠🔥══☬❯ OWNER ❮💞👇
 ┃║
-┃╠♞👺 chat [option]
-┃╠♞👺 join [link]
-┃╠♞👺 leave
-┃╠♞👺 block [user]
-┃╠♞👺 unblock [user]
-┃╠♞👺 bcgroup [text]
-┃╠♞👺 bcall [text]
-┃╠♞👺 setppbot [image]
-┃╠♞👺 setexif
+┃╠💆‍♂️ chat [option]
+┃╠💆‍♂️ join [link]
+┃╠💆‍♂️ leave
+┃╠💆‍♂️ block [user]
+┃╠💆‍♂️ unblock [user]
+┃╠💆‍♂️ bcgroup [text]
+┃╠💆‍♂️ bcall [text]
+┃╠💆‍♂️ setppbot [image]
+┃╠💆‍♂ setexif
 ┃║
 ┃╠🔥══☬❯ GROUP ❮💞👇   
 ┃║   
-┃╠♞👺 grouplink
-┃╠♞👺 ephemeral [option]
-┃╠♞👺 setgcpp [image]
-┃╠♞👺 setname [text]
-┃╠♞👺 setdesc [text]
-┃╠♞👺 group [text]
-┃╠♞👺 editinfo [option]
-┃╠♞👺 add [user]
-┃╠♞👺 kick [reply/tag]
-┃╠♞👺 hidetag [text]
-┃╠♞👺 tagall [text]
-┃╠♞👺 antilink [on/off]
-┃╠♞👺 mute [on/off]
-┃╠♞👺 promote [reply/tag]
-┃╠♞👺 demote [reply/tag]
-┃╠♞👺 vote
-┃╠♞👺 devote
-┃╠♞👺 upvote
-┃╠♞👺 checkvote
-┃╠♞👺 delvote
+┃╠💆‍ grouplink
+┃╠💆‍ ephemeral [option]
+┃╠💆‍♂️ setgcpp [image]
+┃╠💆‍♂️ setname [text]
+┃╠💆‍♂️ setdesc [text]
+┃╠💆‍♂️ group [text]
+┃╠💆‍♂️ editinfo [option]
+┃╠💆‍♂️ add [user]
+┃╠💆‍♂️ kick [reply/tag]
+┃╠💆‍♂️ hidetag [text]
+┃╠💆‍♂️ tagall [text]
+┃╠💆‍♂️ antilink [on/off]
+┃╠💆‍♂️ mute [on/off]
+┃╠💆‍♂️ promote [reply/tag]
+┃╠💆‍♂️ demote [reply/tag]
+┃╠💆‍♂️ vote
+┃╠💆‍♂️ devote
+┃╠💆‍♂️ upvote
+┃╠💆‍♂️ checkvote
+┃╠💆‍♂️ delvote
 ┃║
 ┃╠🔥══☬❯ TEXT PRO ❮💞👇
 ┃║	        
-┃╠♞👺 3dchristmas [txt]
-┃╠♞👺 3ddeepsea [txt]
-┃╠♞👺 americanflag [txt]
-┃╠♞👺 3dscifi [txt]
-┃╠♞👺 3drainbow [txt]
-┃╠♞👺 3dwaterpipe [txt]
-┃╠♞👺 halloweenskeleton [txt]
-┃╠♞👺 sketch [txt]
-┃╠♞👺 bluecircuit [txt]
-┃╠♞👺 space [txt]
-┃╠♞👺 metallic [txt]
-┃╠♞👺 fiction [txt]
-┃╠♞👺 greenhorror [txt]
-┃╠♞👺 transformer [txt]
-┃╠♞👺 berry [txt]
-┃╠♞👺 thunder [txt]
-┃╠♞👺 magma [txt]
-┃╠♞👺 3dcrackedstone [txt]
-┃╠♞👺 3dneonlight [txt]
-┃╠♞👺 impressiveglitch [txt]
-┃╠♞👺 naturalleaves [txt]
-┃╠♞👺 fireworksparkle [txt]
-┃╠♞👺 matrix [txt]
-┃╠♞👺 dropwater [txt]
-┃╠♞👺 harrypotter [txt]
-┃╠♞👺 foggywindow [txt]
-┃╠♞👺 neondevils [txt]
-┃╠♞👺 christmasholiday [txt]
-┃╠♞👺 3dgradient [txt]
-┃╠♞👺 blackpink [txt]
-┃╠♞👺 gluetext [txt]
+┃╠💆‍♂️ 3dchristmas [txt]
+┃╠💆‍♂️ 3ddeepsea [txt]
+┃╠💆‍♂️ americanflag [txt]
+┃╠💆‍♂️ 3dscifi [txt]
+┃╠💆‍♂️ 3drainbow [txt]
+┃╠💆‍♂️ 3dwaterpipe [txt]
+┃╠💆‍♂️ halloweenskeleton [txt]
+┃╠💆‍♂️ sketch [txt]
+┃╠💆‍♂️ bluecircuit [txt]
+┃╠💆‍♂️ space [txt]
+┃╠💆‍♂️ metallic [txt]
+┃╠💆‍♂️ fiction [txt]
+┃╠💆‍♂️ greenhorror [txt]
+┃╠💆‍♂️ transformer [txt]
+┃╠💆‍♂️ berry [txt]
+┃╠💆‍♂️ thunder [txt]
+┃╠💆‍♂️ magma [txt]
+┃╠💆‍♂️ 3dcrackedstone [txt]
+┃╠💆‍♂️ 3dneonlight [txt]
+┃╠💆‍♂️ impressiveglitch [txt]
+┃╠💆‍♂️ naturalleaves [txt]
+┃╠💆‍♂️ fireworksparkle [txt]
+┃╠💆‍♂️ matrix [txt]
+┃╠💆‍♂️ dropwater [txt]
+┃╠💆‍♂️ harrypotter [txt]
+┃╠💆‍♂️ foggywindow [txt]
+┃╠💆‍♂️ neondevils [txt]
+┃╠💆‍♂️ christmasholiday [txt]
+┃╠💆‍♂️ 3dgradient [txt]
+┃╠💆‍♂️ blackpink [txt]
+┃╠💆‍♂️ gluetext [txt]
 ┃║
 ┃╠🔥══☯︎❯ RPG ❮💞👇
 ┃║
-┃╠♞👺 hunting
-┃╠♞👺 mining
-┃╠♞👺 heal
-┃╠♞👺 userlimit
-┃╠♞👺 profile
-┃╠♞👺 inventory
-┃╠♞👺 leaderboard
-┃╠♞👺 buy [option]
-┃╠♞👺 sell [option]
+┃╠💆‍♂️ hunting
+┃╠💆‍♂️ mining
+┃╠💆‍♂️ heal
+┃╠💆‍♂️ userlimit
+┃╠💆‍♂️ profile
+┃╠💆‍♂️ inventory
+┃╠💆‍♂️ leaderboard
+┃╠💆‍♂️ buy [option]
+┃╠💆‍♂️ sell [option]
 ┃║
 ┃╠🔥═☬❯ DOWNLOADER ❮💞👇
 ┃║
-┃╠♞👺 .song [song name]
-┃╠♞👺 .video [yt link]
-┃╠♞👺 .fb [fb link]
-┃╠♞👺 .mediafire [MF link]
-┃╠♞👺 ytmp3 [url|quality]
-┃╠♞👺 ytmp4 [url|quality]
-┃╠♞👺 getmusic [yt link]
-┃╠♞👺 getvideo [yt link]
-┃╠♞👺 umma [query]
-┃╠♞👺 joox [query]
-┃╠♞👺 soundcloud [url]
+┃╠💆‍♂️ .song [song name]
+┃╠💆‍♂️ .video [yt link]
+┃╠💆‍♂️ .fb [fb link]
+┃╠💆‍♂️ .mediafire [MF link]
+┃╠💆‍♂️ ytmp3 [url|quality]
+┃╠💆‍♂️ ytmp4 [url|quality]
+┃╠💆‍♂️ getmusic [yt link]
+┃╠💆‍♂️ getvideo [yt link]
+┃╠💆‍♂️ umma [query]
+┃╠💆‍♂️ joox [query]
+┃╠💆‍♂️ soundcloud [url]
 ┃║
 ┃╠🔥══☬❯ SEARCHER ❮💞👇
 ┃║
-┃╠♞👺 play [query]
-┃╠♞👺 song [query]
-┃╠♞👺 yts [query]
-┃╠♞👺 google [query]
-┃╠♞👺 gimage [query]
-┃╠♞👺 pinterest [query]
-┃╠♞👺 wallpaper [query]
-┃╠♞👺 wikimedia [query]
-┃╠♞👺 ytsearch [query]
-┃╠♞👺 ringtone [query]
-┃╠♞👺 webtoon [query]
+┃╠💆‍♂️ play [query]
+┃╠💆‍♂️ song [query]
+┃╠💆‍♂️ yts [query]
+┃╠💆‍♂️ google [query]
+┃╠💆‍♂️ gimage [query]
+┃╠💆‍♂️ pinterest [query]
+┃╠💆‍♂️ wallpaper [query]
+┃╠💆‍♂️ wikimedia [query]
+┃╠💆‍♂️ ytsearch [query]
+┃╠💆‍♂️ ringtone [query]
+┃╠💆‍♂️ webtoon [query]
 ┃║
 ┃╠🔥══☬❯ RANDOM ❮💞👇
 ┃║
-┃╠♞👺 coffee
-┃╠♞👺 animequote (indo)
-┃╠♞👺 couplepp
+┃╠💆‍♂️ coffee
+┃╠💆‍♂️ animequote (indo)
+┃╠💆‍♂️ couplepp
 ┃║
 ┃╠🔥═☬❯ RANDOM ANIME ❮💞👇
 ┃║
-┃╠♞👺 loli
-┃╠♞👺 bully
-┃╠♞👺 cuddle
-┃╠♞👺 cry
-┃╠♞👺 hug
-┃╠♞👺 awoo
-┃╠♞👺 kiss
-┃╠♞👺 lick
-┃╠♞👺 pat
-┃╠♞👺 smug
-┃╠♞👺 bonk
-┃╠♞👺 yeet
-┃╠♞👺 blush
-┃╠♞👺 smile
-┃╠♞👺 wave
-┃╠♞👺 highfive
-┃╠♞👺 handhold
-┃╠♞👺 nom
-┃╠♞👺 glomp
-┃╠♞👺 bite
-┃╠♞👺 slap
-┃╠♞👺 kill
-┃╠♞👺 happy
-┃╠♞👺 wink
-┃╠♞👺 poke
-┃╠♞👺 dance
-┃╠♞👺 cringe
+┃╠💆‍♂️ loli
+┃╠💆‍♂️ bully
+┃╠💆‍♂️ cuddle
+┃╠💆‍♂️ cry
+┃╠💆‍♂️ hug
+┃╠💆‍♂️ awoo
+┃╠💆‍ kiss
+┃╠💆‍ lick
+┃╠💆‍ pat
+┃╠💆‍ smug
+┃╠💆‍ bonk
+┃╠💆‍ yeet
+┃╠💆‍ blush
+┃╠💆‍ smile
+┃╠💆‍ wave
+┃╠💆‍ highfive
+┃╠💆‍ handhold
+┃╠💆‍ nom
+┃╠💆‍ glomp
+┃╠💆‍ bite
+┃╠💆‍ slap
+┃╠💆‍ kill
+┃╠💆‍ happy
+┃╠💆‍ wink
+┃╠💆‍ poke
+┃╠💆‍ dance
+┃╠💆‍ cringe
 ┃║
 ┃╠🔥══☬❯ FUN ❮💞👇
 ┃║
-┃╠♞👺 how [text]
-┃╠♞👺 when [text]
-┃╠♞👺 is [text]
-┃╠♞👺 what [text]
-┃╠♞👺 can [text]
-┃╠♞👺 rate [text]
-┃╠♞👺 wangy [text]
-┃╠♞👺 beautifulcheck [tag]
-┃╠♞👺 awesomecheck [tag]
-┃╠♞👺 prettycheck [tag]
-┃╠♞👺 lesbiancheck [tag]
-┃╠♞👺 gaycheck [tag]
-┃╠♞👺 cutecheck [tag]
-┃╠♞👺 uglycheck [tag]
-┃╠♞👺 hornycheck [tag]
-┃╠♞👺 charactercheck [tag]
-┃╠♞👺 lovelycheck [tag]
-┃╠♞👺 couple
-┃╠♞👺 mysoulmate
-┃╠♞👺 hot
-┃╠♞👺 sexy
-┃╠♞👺 kind
-┃╠♞👺 idiot
-┃╠♞👺 handsome
-┃╠♞👺 beautiful
-┃╠♞👺 cute
-┃╠♞👺 pretty
-┃╠♞👺 lesbian
-┃╠♞👺 noob
-┃╠♞👺 bastard
-┃╠♞👺 foolish
-┃╠♞👺 nerd
-┃╠♞👺 asshole
-┃╠♞👺 gay
-┃╠♞👺 smart
-┃╠♞👺 stubble
-┃╠♞👺 dog
-┃╠♞👺 horny
-┃╠♞👺 cunt
-┃╠♞👺 wibu
-┃╠♞👺 tictactoe
-┃╠♞👺 delttt
-┃╠♞👺 guess [option]
-┃╠♞👺 math [mode]
-┃╠♞👺 suitpvp [tag]
+┃╠💆‍ how [text]
+┃╠💆‍ when [text]
+┃╠💆‍ is [text]
+┃╠💆‍ what [text]
+┃╠💆‍ can [text]
+┃╠💆‍ rate [text]
+┃╠💆‍ wangy [text]
+┃╠💆‍ beautifulcheck [tag]
+┃╠💆‍ awesomecheck [tag]
+┃╠💆‍ prettycheck [tag]
+┃╠💆‍ lesbiancheck [tag]
+┃╠💆‍ gaycheck [tag]
+┃╠💆‍ cutecheck [tag]
+┃╠💆‍ uglycheck [tag]
+┃╠💆‍ hornycheck [tag]
+┃╠💆‍ charactercheck [tag]
+┃╠💆‍ lovelycheck [tag]
+┃╠💆‍ couple
+┃╠💆‍ mysoulmate
+┃╠💆‍ hot
+┃╠💆‍ sexy
+┃╠💆‍ kind
+┃╠💆‍ idiot
+┃╠💆‍ handsome
+┃╠💆‍ beautiful
+┃╠💆‍ cute
+┃╠💆 pretty
+┃╠💆‍ lesbian
+┃╠💆‍ noob
+┃╠💆‍ bastard
+┃╠💆‍ foolish
+┃╠💆‍ nerd
+┃╠💆‍ asshole
+┃╠💆‍ gay
+┃╠💆‍ smart
+┃╠💆‍ stubble
+┃╠💆‍ dog
+┃╠💆‍ horny
+┃╠💆‍ cunt
+┃╠💆‍ wibu
+┃╠💆‍ tictactoe
+┃╠💆‍ delttt
+┃╠💆‍ guess [option]
+┃╠💆‍ math [mode]
+┃╠💆‍ suitpvp [tag]
 ┃║
 ┃╠🔥═══☬❯ CONVERTER ❮💞👇
 ┃║
-┃╠♞👺 toimage [reply stick]
-┃╠♞👺 sticker [reply img|gif]
-┃╠♞👺 emojimix [moji+moji]
-┃╠♞👺 tovideo [reply img]
-┃╠♞👺 togif [reply stick]
-┃╠♞👺 tourl [reply img]
-┃╠♞👺 tovn [reply aud]
-┃╠♞👺 tomp3 [reply vn]
-┃╠♞👺 toaudio [reply vid]
-┃╠♞👺 ebinary [reply txt]
-┃╠♞👺 dbinary [reply txt]
-┃╠♞👺 styletext [text]
+┃╠💆‍ toimage [reply stick]
+┃╠💆‍ sticker [reply img|gif]
+┃╠💆‍ emojimix [moji+moji]
+┃╠💆‍ tovideo [reply img]
+┃╠💆‍ togif [reply stick]
+┃╠💆‍ tourl [reply img]
+┃╠💆‍ tovn [reply aud]
+┃╠💆‍ tomp3 [reply vn]
+┃╠💆‍ toaudio [reply vid]
+┃╠💆‍ ebinary [reply txt]
+┃╠💆‍ dbinary [reply txt]
+┃╠💆‍ styletext [text]
 ┃║
 ┃╠🔥══☬❯ DATABASE ❮💞👇
 ┃║
-┃╠♞👺 setcmd
-┃╠♞👺 listcmd
-┃╠♞👺 delcmd
-┃╠♞👺 lockcmd
-┃╠♞👺 addmsg
-┃╠♞👺 listmsg
-┃╠♞👺 getmsg
-┃╠♞👺 delmsg
+┃╠💆‍ setcmd
+┃╠💆‍ listcmd
+┃╠💆‍ delcmd
+┃╠💆‍ lockcmd
+┃╠💆‍ addmsg
+┃╠💆‍ listmsg
+┃╠💆‍ getmsg
+┃╠💆‍ delmsg
 ┃║
 ┃╠🔥═☬❯ ANONYMOUS CHAT ❮💞👇
 ┃║
-┃╠♞👺 anonymous
-┃╠♞👺 start
-┃╠♞👺 next
-┃╠♞👺 leave
+┃╠💆‍ anonymous
+┃╠💆‍ start
+┃╠💆‍ next
+┃╠💆‍ leave
 ┃║
 ┃╠🔥═☬❯ VOICE CHANGER ❮💞👇
 ┃║
-┃╠♞👺 bass [reply aud]
-┃╠♞👺 blown [reply aud]
-┃╠♞👺 deep [reply aud]
-┃╠♞👺 earrape [reply aud]
-┃╠♞👺 fast [reply aud]
-┃╠♞👺 fat [reply aud]
-┃╠♞👺 nightcore [reply aud]
-┃╠♞👺 reverse [reply aud]
-┃╠♞👺 robot [reply aud]
-┃╠♞👺 slow [reply aud]
-┃╠♞👺 squirrel [reply aud]
+┃╠💆‍ bass [reply aud]
+┃╠💆‍ blown [reply aud]
+┃╠💆‍ deep [reply aud]
+┃╠💆‍ earrape [reply aud]
+┃╠💆‍ fast [reply aud]
+┃╠💆‍ fat [reply aud]
+┃╠💆‍ nightcore [reply aud]
+┃╠💆‍ reverse [reply aud]
+┃╠💆‍ robot [reply aud]
+┃╠💆‍ slow [reply aud]
+┃╠💆‍ squirrel [reply aud]
 ┃║
 ┃╠🔥══☬❯ ISLAMIC ❮💞👇
 ┃║
-┃╠♞👺 juzamma
+┃╠💆‍ juzamma
 ┃║
 ┃╠🔥══☬❯ HOROSCOPE ❮💞👇
 ┃║
-┃╠♞👺 nomorhoki (indo)
-┃╠♞👺 artimimpi (indo)
-┃╠♞👺 artinama (indo)
-┃╠♞👺 ramaljodoh (indo)
-┃╠♞👺 ramaljodohbali (indo)
-┃╠♞👺 suamiistri (indo)
-┃╠♞👺 ramalcinta (indo)
-┃╠♞👺 cocoknama (indo)
-┃╠♞👺 pasangan (indo)
-┃╠♞👺 jadiannikah (indo)
-┃╠♞👺 sifatusaha (indo)
-┃╠♞👺 rezeki (indo)
-┃╠♞👺 pekerjaan (indo)
-┃╠♞👺 nasib (indo)
-┃╠♞👺 penyakit (indo)
-┃╠♞👺 tarot (indo)
-┃╠♞👺 fengshui (indo)
-┃╠♞👺 haribaik (indo)
-┃╠♞👺 harisangar (indo)
-┃╠♞👺 harisial (indo)
-┃╠♞👺 nagahari (indo)
-┃╠♞👺 arahrezeki (indo)
-┃╠♞👺 peruntungan (indo)
-┃╠♞👺 weton (indo)
-┃╠♞👺 karakter (indo)
-┃╠♞👺 keberuntungan (indo)
-┃╠♞👺 memancing (indo)
-┃╠♞👺 masasubur (indo)
-┃╠♞👺 zodiak (indo)
-┃╠♞👺 shio (indo)
+┃╠💆‍ nomorhoki (indo)
+┃╠💆‍ artimimpi (indo)
+┃╠💆‍ artinama (indo)
+┃╠💆‍ ramaljodoh (indo)
+┃╠💆‍ ramaljodohbali (indo)
+┃╠💆‍ suamiistri (indo)
+┃╠💆 ramalcinta (indo)
+┃╠💆‍ cocoknama (indo)
+┃╠💆‍ pasangan (indo)
+┃╠💆‍ jadiannikah (indo)
+┃╠💆‍ sifatusaha (indo)
+┃╠💆‍ rezeki (indo)
+┃╠💆‍ pekerjaan (indo)
+┃╠💆‍ nasib (indo)
+┃╠💆‍ penyakit (indo)
+┃╠💆‍ tarot (indo)
+┃╠💆‍ fengshui (indo)
+┃╠💆‍ haribaik (indo)
+┃╠💆‍ harisangar (indo)
+┃╠💆‍ harisial (indo)
+┃╠💆‍ nagahari (indo)
+┃╠💆‍ arahrezeki (indo)
+┃╠💆‍ peruntungan (indo)
+┃╠💆‍ weton (indo)
+┃╠💆‍ karakter (indo)
+┃╠💆‍ keberuntungan (indo)
+┃╠💆‍ memancing (indo)
+┃╠💆‍ masasubur (indo)
+┃╠💆‍ zodiak (indo)
+┃╠💆‍ shio (indo)
 ┃║
 ┃╚═══════✍︎☬
 ┗━❯ *Created By ${ownername}*`,
@@ -3934,18 +3934,18 @@ await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❯ ${botname} ❮━━❤️‍🔥 
 ┃╔═☬❯ MAIN ❮💞👇
 ┃║
-┃╠♞👺 alive
-┃╠♞👺 info
-┃╠♞👺 script
-┃╠♞👺 speedtest
-┃╠♞👺 ping
-┃╠♞👺 owner
-┃╠♞👺 menu
-┃╠♞👺 delete
-┃╠♞👺 chatinfo
-┃╠♞👺 quoted
-┃╠♞👺 donate
-┃╠♞👺 report [bug]
+┃╠💆‍ alive
+┃╠💆‍ info
+┃╠💆‍ script
+┃╠💆‍ speedtest
+┃╠💆‍ ping
+┃╠💆‍ owner
+┃╠💆‍ menu
+┃╠💆‍ delete
+┃╠💆‍ chatinfo
+┃╠💆‍ quoted
+┃╠💆‍ donate
+┃╠💆‍ report [bug]
 ┃╚═════════════☬
 ┗━━❯ ${pushname} ❮━😎`,unicorn, [{"urlButton": {"displayText": `${button}`,"url": `${btnurl}`}},{"urlButton": {"displayText": "🔖BOT SCRIPT🔖","url": `https://github.com/malindunimsara/DARK-DEVIL-MD-BOT`}},{"quickReplyButton": {"displayText": "😂DONATE😂","id": 'donate'}},{"quickReplyButton": {"displayText": "🤠Owner👨‍💻","id": 'owner'}}] )
 break
@@ -3956,26 +3956,26 @@ await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❯ ${botname} ❮━━❤️‍🔥 
 ┃╔═☬❯ GROUP ❮💞👇	 
 ┃║       
-┃╠♞👺 grouplink
-┃╠♞👺 ephemeral [option]
-┃╠♞👺 setgcpp [image]
-┃╠♞👺 setname [text]
-┃╠♞👺 setdesc [text]
-┃╠♞👺 group [text]
-┃╠♞👺 editinfo [option]
-┃╠♞👺 add [user]
-┃╠♞👺 kick [reply/tag]
-┃╠♞👺 hidetag [text]
-┃╠♞👺 tagall [text]
-┃╠♞👺 antilink [on/off]
-┃╠♞👺 mute [on/off]
-┃╠♞👺 promote [reply/tag]
-┃╠♞👺 demote [reply/tag]
-┃╠♞👺 vote
-┃╠♞👺 devote
-┃╠♞👺 upvote
-┃╠♞👺 checkvote
-┃╠♞👺 delvote
+┃╠💆‍ grouplink
+┃╠💆‍ ephemeral [option]
+┃╠💆‍ setgcpp [image]
+┃╠💆‍ setname [text]
+┃╠💆‍ setdesc [text]
+┃╠💆‍ group [text]
+┃╠💆‍ editinfo [option]
+┃╠💆‍ add [user]
+┃╠💆‍ kick [reply/tag]
+┃╠💆‍ hidetag [text]
+┃╠💆‍ tagall [text]
+┃╠💆‍ antilink [on/off]
+┃╠💆‍ mute [on/off]
+┃╠💆‍ promote [reply/tag]
+┃╠💆‍ demote [reply/tag]
+┃╠💆‍ vote
+┃╠💆‍ devote
+┃╠💆‍ upvote
+┃╠💆‍ checkvote
+┃╠💆‍ delvote
 ┃╚═════════════☬
 ┗━━❯ ${pushname} ❮━😎`,unicorn, [{"urlButton": {"displayText": `${button}`,"url": `${btnurl}`}},{"urlButton": {"displayText": "🔖BOT SCRIPT🔖","url": `https://github.com/malindunimsara/DARK-DEVIL-MD-BOT`}},{"quickReplyButton": {"displayText": "😂DONATE😂","id": 'donate'}},{"quickReplyButton": {"displayText": "🤠Owner👨‍💻","id": 'owner'}}] )
 break
@@ -3985,15 +3985,15 @@ await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❯ ${botname} ❮━━❤️‍🔥 
 ┃╔═☬❯ RPG ❮💞👇 
 ┃║     
-┃╠♞👺 hunting
-┃╠♞👺 mining
-┃╠♞👺 heal
-┃╠♞👺 limituser
-┃╠♞👺 profile
-┃╠♞👺 inventory
-┃╠♞👺 leaderboard
-┃╠♞👺 buy [option]
-┃╠♞👺 sell [option]
+┃╠💆‍ hunting
+┃╠💆‍ mining
+┃╠💆‍ heal
+┃╠💆‍ limituser
+┃╠💆‍ profile
+┃╠💆‍ inventory
+┃╠💆‍ leaderboard
+┃╠💆‍ buy [option]
+┃╠💆‍ sell [option]
 ┃╚═════════════☬
 ┗━━❯ ${pushname} ❮━😎`,unicorn, [{"urlButton": {"displayText": `${button}`,"url": `${btnurl}`}},{"urlButton": {"displayText": "🔖BOT SCRIPT🔖","url": `https://github.com/malindunimsara/DARK-DEVIL-MD-BOT`}},{"quickReplyButton": {"displayText": "😂DONATE😂","id": 'donate'}},{"quickReplyButton": {"displayText": "🤠Owner👨‍💻","id": 'owner'}}] )
 break
@@ -4004,50 +4004,50 @@ await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❯ ${botname} ❮━━❤️‍🔥 
 ┃╔═☬❯ FUN ❮💞👇	
 ┃║        
-┃╠♞👺 how [text
-┃╠♞👺 when [text]
-┃╠♞👺 is [text]
-┃╠♞👺 what [text]
-┃╠♞👺 can [text]
-┃╠♞👺 rate [text]
-┃╠♞👺 wangy [text]
-┃╠♞👺 beautifulcheck [tag]
-┃╠♞👺 awesomecheck [tag]
-┃╠♞👺 prettycheck [tag]
-┃╠♞👺 lesbiancheck [tag]
-┃╠♞👺 gaycheck [tag]
-┃╠♞👺 cutecheck [tag]
-┃╠♞👺 uglycheck [tag]
-┃╠♞👺 hornycheck [tag]
-┃╠♞👺 charactercheck [tag]
-┃╠♞👺 lovelycheck [tag]
-┃╠♞👺 couple
-┃╠♞👺 mysoulmate
-┃╠♞👺 hot
-┃╠♞👺 sexy
-┃╠♞👺 kind
-┃╠♞👺 handsome
-┃╠♞👺 beautiful
-┃╠♞👺 cute
-┃╠♞👺 pretty
-┃╠♞👺 lesbian
-┃╠♞👺 noob
-┃╠♞👺 bastard
-┃╠♞👺 foolish
-┃╠♞👺 nerd
-┃╠♞👺 asshole
-┃╠♞👺 gay
-┃╠♞👺 smart
-┃╠♞👺 stubble
-┃╠♞👺 dog
-┃╠♞👺 horny
-┃╠♞👺 cunt
-┃╠♞👺 wibu
-┃╠♞👺 tictactoe
-┃╠♞👺 delttt
-┃╠♞👺 guess [option]
-┃╠♞👺 math [mode]
-┃╠♞👺 suitpvp [tag]
+┃╠💆‍ how [text
+┃╠💆‍ when [text]
+┃╠💆‍ is [text]
+┃╠💆‍ what [text]
+┃╠💆‍ can [text]
+┃╠💆‍ rate [text]
+┃╠💆‍ wangy [text]
+┃╠💆‍ beautifulcheck [tag]
+┃╠💆‍ awesomecheck [tag]
+┃╠💆‍ prettycheck [tag]
+┃╠💆‍ lesbiancheck [tag]
+┃╠💆‍ gaycheck [tag]
+┃╠💆‍ cutecheck [tag]
+┃╠💆‍ uglycheck [tag]
+┃╠💆‍ hornycheck [tag]
+┃╠💆‍ charactercheck [tag]
+┃╠💆‍ lovelycheck [tag]
+┃╠💆‍ couple
+┃╠💆‍ mysoulmate
+┃╠💆‍ hot
+┃╠💆‍ sexy
+┃╠💆‍ kind
+┃╠💆‍ handsome
+┃╠💆‍ beautiful
+┃╠💆‍ cute
+┃╠💆‍ pretty
+┃╠💆‍ lesbian
+┃╠💆‍ noob
+┃╠💆‍ bastard
+┃╠💆‍ foolish
+┃╠💆‍ nerd
+┃╠💆‍ asshole
+┃╠💆‍ gay
+┃╠💆‍ smart
+┃╠💆‍ stubble
+┃╠💆‍ dog
+┃╠💆‍ horny
+┃╠💆‍ cunt
+┃╠💆‍ wibu
+┃╠💆‍ tictactoe
+┃╠💆‍ delttt
+┃╠💆‍ guess [option]
+┃╠💆‍ math [mode]
+┃╠💆‍ suitpvp [tag]
 ┃╚═════════════☬
 ┗━━❯ ${pushname} ❮━😎`,unicorn, [{"urlButton": {"displayText": `${button}`,"url": `${btnurl}`}},{"urlButton": {"displayText": "🔖BOT SCRIPT🔖","url": `https://github.com/malindunimsara/DARK-DEVIL-MD-BOT`}},{"quickReplyButton": {"displayText": "😂DONATE😂","id": 'donate'}},{"quickReplyButton": {"displayText": "🤠Owner👨‍💻","id": 'owner'}}] )
 break
@@ -4057,26 +4057,26 @@ await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❯ ${botname} ❮━━❤️‍🔥 
 ┃╔═☬❯ OWNER ❮💞👇	   
 ┃║     
-┃╠♞👺 grouplink
-┃╠♞👺 ephemeral [option]
-┃╠♞👺 setgcpp [image]
-┃╠♞👺 setname [text]
-┃╠♞👺 setdesc [text]
-┃╠♞👺 group [text]
-┃╠♞👺 editinfo [option]
-┃╠♞👺 add [user]
-┃╠♞👺 kick [reply/tag]
-┃╠♞👺 hidetag [text]
-┃╠♞👺 tagall [text]
-┃╠♞👺 antilink [on/off]
-┃╠♞👺 mute [on/off]
-┃╠♞👺 promote [reply/tag]
-┃╠♞👺 demote [reply/tag]
-┃╠♞👺 vote
-┃╠♞👺 devote
-┃╠♞👺 upvote
-┃╠♞👺 checkvote
-┃╠♞👺 delvote
+┃╠💆‍ grouplink
+┃╠💆‍ ephemeral [option]
+┃╠💆‍ setgcpp [image]
+┃╠💆‍ setname [text]
+┃╠💆‍ setdesc [text]
+┃╠💆‍ group [text]
+┃╠💆‍ editinfo [option]
+┃╠💆‍ add [user]
+┃╠💆‍ kick [reply/tag]
+┃╠💆‍ hidetag [text]
+┃╠💆‍ tagall [text]
+┃╠💆‍ antilink [on/off]
+┃╠💆‍ mute [on/off]
+┃╠💆‍ promote [reply/tag]
+┃╠💆‍ demote [reply/tag]
+┃╠💆‍ vote
+┃╠💆‍ devote
+┃╠💆‍ upvote
+┃╠💆‍ checkvote
+┃╠💆‍ delvote
 ┃╚═════════════☬
 ┗━━❯ ${pushname} ❮━😎`,unicorn, [{"urlButton": {"displayText": `${button}`,"url": `${btnurl}`}},{"urlButton": {"displayText": "🔖BOT SCRIPT🔖","url": `https://github.com/malindunimsara/DARK-DEVIL-MD-BOT`}},{"quickReplyButton": {"displayText": "😂DONATE😂","id": 'donate'}},{"quickReplyButton": {"displayText": "🤠Owner👨‍💻","id": 'owner'}}] )
 break
@@ -4085,17 +4085,17 @@ var unicorn = await getBuffer(picak+'Downloader Menu')
 await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❯ ${botname} ❮━━❤️‍🔥 
 ┃╔═☬❯ DOWNLOADER ❮💞👇
-┃╠♞👺 .song [song name]
-┃╠♞👺 .video [yt link]
-┃╠♞👺 .fb [fb link]
-┃╠♞👺 .mediafire [MF link]
-┃╠♞👺 ytmp3 [url|quality]
-┃╠♞👺 ytmp4 [url|quality]
-┃╠♞👺 getmusic [yt link]
-┃╠♞👺 getvideo [yt link]
-┃╠♞👺 umma [query]
-┃╠♞👺 joox [query]
-┃╠♞👺 soundcloud [url]
+┃╠💆‍ .song [song name]
+┃╠💆‍ .video [yt link]
+┃╠💆‍ .fb [fb link]
+┃╠💆‍ .mediafire [MF link]
+┃╠💆 ytmp3 [url|quality]
+┃╠💆‍ ytmp4 [url|quality]
+┃╠💆‍ getmusic [yt link]
+┃╠💆‍ getvideo [yt link]
+┃╠💆‍ umma [query]
+┃╠💆‍ joox [query]
+┃╠💆‍ soundcloud [url]
 ┃╚═════════════☬
 ┗━━❯ ${pushname} ❮━😎`,unicorn, [{"urlButton": {"displayText": `${button}`,"url": `${btnurl}`}},{"urlButton": {"displayText": "🔖BOT SCRIPT🔖","url": `https://github.com/malindunimsara/DARK-DEVIL-MD-BOT`}},{"quickReplyButton": {"displayText": "😂DONATE😂","id": 'donate'}},{"quickReplyButton": {"displayText": "🤠Owner👨‍💻","id": 'owner'}}] )
 break
@@ -4105,17 +4105,17 @@ await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❯ ${botname} ❮━━❤️‍🔥 
 ┃╔══☬❯ SEARCHER ❮💞👇
 ┃║	        
-┃╠♞👺 play [query]
-┃╠♞👺 song [query]
-┃╠♞👺 yts [query]
-┃╠♞👺 google [query]
-┃╠♞👺 gimage [query]
-┃╠♞👺 pinterest [query]
-┃╠♞👺 wallpaper [query]
-┃╠♞👺 wikimedia [query]
-┃╠♞👺 ytsearch [query]
-┃╠♞👺 ringtone [query]
-┃╠♞👺 webtoon [query]
+┃╠💆‍ play [query]
+┃╠💆‍ song [query]
+┃╠💆‍ yts [query]
+┃╠💆‍ google [query]
+┃╠💆‍ gimage [query]
+┃╠💆‍ pinterest [query]
+┃╠💆‍ wallpaper [query]
+┃╠💆‍ wikimedia [query]
+┃╠💆‍ ytsearch [query]
+┃╠💆‍ ringtone [query]
+┃╠💆‍ webtoon [query]
 ┃╚═════════════☬
 ┗━━❯ ${pushname} ❮━😎`,unicorn, [{"urlButton": {"displayText": `${button}`,"url": `${btnurl}`}},{"urlButton": {"displayText": "🔖BOT SCRIPT🔖","url": `https://github.com/malindunimsara/DARK-DEVIL-MD-BOT`}},{"quickReplyButton": {"displayText": "😂DONATE😂","id": 'donate'}},{"quickReplyButton": {"displayText": "🤠Owner👨‍💻","id": 'owner'}}] )
 break
@@ -4125,9 +4125,9 @@ await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❯ ${botname} ❮━━❤️‍🔥 
 ┃╔══☬❯ RANDOM ❮💞👇
 ┃║	        
-┃╠♞👺 coffee
-┃╠♞👺 animequote (indo)
-┃╠♞👺 couplepp
+┃╠💆‍ coffee
+┃╠💆‍ animequote (indo)
+┃╠💆‍ couplepp
 ┃╚═════════════☬
 ┗━━❯ ${pushname} ❮━😎`,unicorn, [{"urlButton": {"displayText": `${button}`,"url": `${btnurl}`}},{"urlButton": {"displayText": "🔖BOT SCRIPT🔖","url": `https://github.com/malindunimsara/DARK-DEVIL-MD-BOT`}},{"quickReplyButton": {"displayText": "😂DONATE😂","id": 'donate'}},{"quickReplyButton": {"displayText": "🤠Owner👨‍💻","id": 'owner'}}] )
 break
@@ -4137,33 +4137,33 @@ await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❯ ${botname} ❮━━❤️‍🔥 
 ┃╔☬❯ RANDOM ANIME ❮💞👇
 ┃║	        
-┃╠♞👺 loli
-┃╠♞👺 bully
-┃╠♞👺 cuddle
-┃╠♞👺 cry
-┃╠♞👺 hug
-┃╠♞👺 awoo
-┃╠♞👺 kiss
-┃╠♞👺 lick
-┃╠♞👺 pat
-┃╠♞👺 smug
-┃╠♞👺 bonk
-┃╠♞👺 yeet
-┃╠♞👺 blush
-┃╠♞👺 smile
-┃╠♞👺 wave
-┃╠♞👺 highfive
-┃╠♞👺 handhold
-┃╠♞👺 nom
-┃╠♞👺 glomp
-┃╠♞👺 bite
-┃╠♞👺 slap
-┃╠♞👺 kill
-┃╠♞👺 happy
-┃╠♞👺 wink
-┃╠♞👺 poke
-┃╠♞👺 dance
-┃╠♞👺 cringe
+┃╠💆‍ loli
+┃╠💆‍ bully
+┃╠💆‍ cuddle
+┃╠💆‍ cry
+┃╠💆‍ hug
+┃╠💆‍ awoo
+┃╠💆‍ kiss
+┃╠💆‍ lick
+┃╠💆‍ pat
+┃╠💆‍ smug
+┃╠💆‍ bonk
+┃╠💆‍ yeet
+┃╠💆‍ blush
+┃╠💆‍ smile
+┃╠💆‍ wave
+┃╠💆‍ highfive
+┃╠💆‍ handhold
+┃╠💆‍ nom
+┃╠💆‍ glomp
+┃╠💆‍ bite
+┃╠💆‍ slap
+┃╠💆‍ kill
+┃╠💆‍ happy
+┃╠💆‍ wink
+┃╠💆‍ poke
+┃╠💆‍ dance
+┃╠💆‍ cringe
 ┃╚═════════════☬
 ┗━━❯ ${pushname} ❮━😎`,unicorn, [{"urlButton": {"displayText": `${button}`,"url": `${btnurl}`}},{"urlButton": {"displayText": "🔖BOT SCRIPT🔖","url": `https://github.com/malindunimsara/DARK-DEVIL-MD-BOT`}},{"quickReplyButton": {"displayText": "😂DONATE😂","id": 'donate'}},{"quickReplyButton": {"displayText": "🤠Owner👨‍💻","id": 'owner'}}] )
 break
@@ -4173,37 +4173,37 @@ await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❯ ${botname} ❮━━❤️‍🔥 
 ┃╔═☬❯ TEXT PRO ❮💞👇
 ┃║	        
-┃╠♞👺 3dchristmas [txt]
-┃╠♞👺 3ddeepsea [txt]
-┃╠♞👺 americanflag [txt]
-┃╠♞👺 3dscifi [txt]
-┃╠♞👺 3drainbow [txt]
-┃╠♞👺 3dwaterpipe [txt]
-┃╠♞👺 halloweenskeleton [txt]
-┃╠♞👺 sketch [txt]
-┃╠♞👺 bluecircuit [txt]
-┃╠♞👺 space [txt]
-┃╠♞👺 metallic [txt]
-┃╠♞👺 fiction [txt]
-┃╠♞👺 greenhorror [txt]
-┃╠♞👺 transformer [txt]
-┃╠♞👺 berry [txt]
-┃╠♞👺 thunder [txt]
-┃╠♞👺 magma [txt]
-┃╠♞👺 3dcrackedstone [txt]
-┃╠♞👺 3dneonlight [txt]
-┃╠♞👺 impressiveglitch [txt]
-┃╠♞👺 naturalleaves [txt]
-┃╠♞👺 fireworksparkle [txt]
-┃╠♞👺 matrix [txt]
-┃╠♞👺 dropwater [txt]
-┃╠♞👺 harrypotter [txt]
-┃╠♞👺 foggywindow [txt]
-┃╠♞👺 neondevils [txt]
-┃╠♞👺 christmasholiday [txt]
-┃╠♞👺 3dgradient [txt]
-┃╠♞👺 blackpink [txt]
-┃╠♞👺 gluetext [txt]
+┃╠💆‍ 3dchristmas [txt]
+┃╠💆‍ 3ddeepsea [txt]
+┃╠💆‍ americanflag [txt]
+┃╠💆‍ 3dscifi [txt]
+┃╠💆‍ 3drainbow [txt]
+┃╠💆‍ 3dwaterpipe [txt]
+┃╠💆‍ halloweenskeleton [txt]
+┃╠💆‍ sketch [txt]
+┃╠💆‍ bluecircuit [txt]
+┃╠💆‍ space [txt]
+┃╠💆‍ metallic [txt]
+┃╠💆‍ fiction [txt]
+┃╠💆‍ greenhorror [txt]
+┃╠💆‍ transformer [txt]
+┃╠💆‍ berry [txt]
+┃╠💆‍ thunder [txt]
+┃╠💆‍ magma [txt]
+┃╠💆‍ 3dcrackedstone [txt]
+┃╠💆‍ 3dneonlight [txt]
+┃╠💆‍ impressiveglitch [txt]
+┃╠💆‍ naturalleaves [txt]
+┃╠💆‍ fireworksparkle [txt]
+┃╠💆‍ matrix [txt]
+┃╠💆‍ dropwater [txt]
+┃╠💆‍ harrypotter [txt]
+┃╠💆‍ foggywindow [txt]
+┃╠💆‍ neondevils [txt]
+┃╠💆‍ christmasholiday [txt]
+┃╠💆‍ 3dgradient [txt]
+┃╠💆‍ blackpink [txt]
+┃╠💆‍ gluetext [txt]
 ┃╚═════════════☬
 ┗━━❯ ${pushname} ❮━😎`,unicorn, [{"urlButton": {"displayText": `${button}`,"url": `${btnurl}`}},{"urlButton": {"displayText": "🔖BOT SCRIPT🔖","url": `https://github.com/malindunimsara/DARK-DEVIL-MD-BOT`}},{"quickReplyButton": {"displayText": "😂DONATE😂","id": 'donate'}},{"quickReplyButton": {"displayText": "🤠Owner👨‍💻","id": 'owner'}}] )
 break
@@ -4213,17 +4213,17 @@ await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❯ ${botname} ❮━━❤️‍🔥 
 ┃╔══☬❯ CONVERTER ❮💞👇	
 ┃║        
-┃╠♞👺 toimage [reply stick]
-┃╠♞👺 sticker [reply img|gif]
-┃╠♞👺 emojimix [moji+moji]
-┃╠♞👺 tovideo [reply img]
-┃╠♞👺 togif [reply stick]
-┃╠♞👺 tourl [reply media]
-┃╠♞👺 tovn [reply aud]
-┃╠♞👺 tomp3 [reply vn]
-┃╠♞👺 toaudio [reply vid]
-┃╠♞👺 ebinary [reply txt]
-┃╠♞👺 dbinary [reply txt]
+┃╠💆‍ toimage [reply stick]
+┃╠💆‍ sticker [reply img|gif]
+┃╠💆‍ emojimix [moji+moji]
+┃╠💆‍ tovideo [reply img]
+┃╠💆‍ togif [reply stick]
+┃╠💆‍ tourl [reply media]
+┃╠💆‍ tovn [reply aud]
+┃╠💆‍ tomp3 [reply vn]
+┃╠💆‍ toaudio [reply vid]
+┃╠💆‍ ebinary [reply txt]
+┃╠💆‍ dbinary [reply txt]
 ┃╚═════════════☬
 ┗━━❯ ${pushname} ❮━😎`,unicorn, [{"urlButton": {"displayText": `${button}`,"url": `${btnurl}`}},{"urlButton": {"displayText": "🔖BOT SCRIPT🔖","url": `https://github.com/malindunimsara/DARK-DEVIL-MD-BOT`}},{"quickReplyButton": {"displayText": "😂DONATE😂","id": 'donate'}},{"quickReplyButton": {"displayText": "🤠Owner👨‍💻","id": 'owner'}}] )
 break
@@ -4233,14 +4233,14 @@ await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❯ ${botname} ❮━━❤️‍🔥 
 ┃╔═══☬❯ DATABASE ❮💞👇	
 ┃║        
-┃╠♞👺 setcmd
-┃╠♞👺 listcmd
-┃╠♞👺 delcmd
-┃╠♞👺 lockcmd
-┃╠♞👺 addmsg
-┃╠♞👺 listmsg
-┃╠♞👺 getmsg
-┃╠♞👺 delmsg
+┃╠💆‍ setcmd
+┃╠💆‍ listcmd
+┃╠💆‍ delcmd
+┃╠💆‍ lockcmd
+┃╠💆‍ addmsg
+┃╠💆‍ listmsg
+┃╠💆‍ getmsg
+┃╠💆‍ delmsg
 ┃╚═════════════☬
 ┗━━❯ ${pushname} ❮━😎`,unicorn, [{"urlButton": {"displayText": `${button}`,"url": `${btnurl}`}},{"urlButton": {"displayText": "🔖BOT SCRIPT🔖","url": `https://github.com/malindunimsara/DARK-DEVIL-MD-BOT`}},{"quickReplyButton": {"displayText": "😂DONATE😂","id": 'donate'}},{"quickReplyButton": {"displayText": "🤠Owner👨‍💻","id": 'owner'}}] )
 break
@@ -4250,10 +4250,10 @@ await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❯ ${botname} ❮━━❤️‍🔥 
 ┃╔══☬❯ ANONYMOUS CHAT ❮💞👇
 ┃║	        
-┃╠♞👺 anonymous
-┃╠♞👺 start
-┃╠♞👺 next
-┃╠♞👺 leave
+┃╠💆‍ anonymous
+┃╠💆‍ start
+┃╠💆‍ next
+┃╠💆‍ leave
 ┃╚═════════════☬
 ┗━━❯ ${pushname} ❮━😎`,unicorn, [{"urlButton": {"displayText": `${button}`,"url": `${btnurl}`}},{"urlButton": {"displayText": "🔖BOT SCRIPT🔖","url": `https://github.com/malindunimsara/DARK-DEVIL-MD-BOT`}},{"quickReplyButton": {"displayText": "😂DONATE😂","id": 'donate'}},{"quickReplyButton": {"displayText": "🤠Owner👨‍💻","id": 'owner'}}] )
 break
@@ -4263,25 +4263,25 @@ await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❯ ${botname} ❮━━❤️‍🔥 
 ┃╔══☬❯ 𝗚𝗶𝗿𝗹 𝗩𝗼𝗶𝗰𝗲 𝗖𝗹𝗶𝗽𝘀 ❮💞👇
 ┃║
-┃╠♞👺 Hi
-┃╠♞👺 gn
-┃╠♞👺 gm
-┃╠♞👺 akke
-┃╠♞👺 adarei
-┃╠♞👺 baba eka
-┃╠♞👺 good night
-┃╠♞👺 good morning
-┃╠♞👺 fuck you
-┃╠♞👺 balli
-┃╠♞👺 baduwa
-┃╠♞👺 bitch
-┃╠♞👺 balaganin
-┃╠♞👺 bb ek
-┃╠♞👺 na na
-┃╠♞👺 namgi
-┃╠♞👺 pala
-┃╠♞👺 mk
-┃╠♞👺 marilada
+┃╠💆‍ Hi
+┃╠💆‍ gn
+┃╠💆‍ gm
+┃╠💆‍ akke
+┃╠💆‍ adarei
+┃╠💆‍ baba eka
+┃╠💆‍ good night
+┃╠💆‍ good morning
+┃╠💆‍ fuck you
+┃╠💆‍ balli
+┃╠💆‍ baduwa
+┃╠💆‍ bitch
+┃╠💆‍ balaganin
+┃╠💆‍ bb ek
+┃╠💆‍ na na
+┃╠💆‍ namgi
+┃╠💆‍ pala
+┃╠💆‍ mk
+┃╠💆‍ marilada
 ┗━━❯ ${pushname} ❮━😎`,unicorn, [{"urlButton": {"displayText": `${button}`,"url": `${btnurl}`}},{"urlButton": {"displayText": "🔖BOT SCRIPT🔖","url": `https://github.com/malindunimsara/DARK-DEVIL-MD-BOT`}},{"quickReplyButton": {"displayText": "😂DONATE😂","id": 'donate'}},{"quickReplyButton": {"displayText": "🤠Owner👨‍💻","id": 'owner'}}] )
 break
 case 'voicechangermenu':
@@ -4290,17 +4290,17 @@ await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❯ ${botname} ❮━━❤️‍🔥 
 ┃╔══☬❯ VOICE CHANGER ❮💞👇	
 ┃║        
-┃╠♞👺 bass [reply aud]
-┃╠♞👺 blown [reply aud]
-┃╠♞👺 deep [reply aud]
-┃╠♞👺 earrape [reply aud]
-┃╠♞👺 fast [reply aud]
-┃╠♞👺 fat [reply aud]
-┃╠♞👺 nightcore [reply aud]
-┃╠♞👺 reverse [reply aud]
-┃╠♞👺 robot [reply aud]
-┃╠♞👺 slow [reply aud]
-┃╠♞👺 squirrel [reply aud]
+┃╠💆‍ bass [reply aud]
+┃╠💆‍ blown [reply aud]
+┃╠💆‍ deep [reply aud]
+┃╠💆‍ earrape [reply aud]
+┃╠💆‍ fast [reply aud]
+┃╠💆‍ fat [reply aud]
+┃╠💆‍ nightcore [reply aud]
+┃╠💆‍ reverse [reply aud]
+┃╠💆‍ robot [reply aud]
+┃╠💆‍ slow [reply aud]
+┃╠💆‍ squirrel [reply aud]
 ┃╚═════════════☬
 ┗━━❯ ${pushname} ❮━😎`,unicorn, [{"urlButton": {"displayText": `${button}`,"url": `${btnurl}`}},{"urlButton": {"displayText": "🔖BOT SCRIPT🔖","url": `https://github.com/malindunimsara/DARK-DEVIL-MD-BOT`}},{"quickReplyButton": {"displayText": "😂DONATE😂","id": 'donate'}},{"quickReplyButton": {"displayText": "🤠Owner👨‍💻","id": 'owner'}}] )
 break
@@ -4310,36 +4310,36 @@ await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━❯ ${botname} ❮━━❤️‍🔥
 ┃╔══☬❯ HOROSCOPE ❮💞👇
 ┃║	        
-┃╠♞👺 nomorhoki (indo)
-┃╠♞👺 artimimpi (indo)
-┃╠♞👺 artinama (indo)
-┃╠♞👺 ramaljodoh (indo)
-┃╠♞👺 ramaljodohbali (indo)
-┃╠♞👺 suamiistri (indo)
-┃╠♞👺 ramalcinta (indo)
-┃╠♞👺 cocoknama (indo)
-┃╠♞👺 pasangan (indo)
-┃╠♞👺 jadiannikah (indo)
-┃╠♞👺 sifatusaha (indo)
-┃╠♞👺 rezeki (indo)
-┃╠♞👺 pekerjaan (indo)
-┃╠♞👺 nasib (indo)
-┃╠♞👺 penyakit (indo)
-┃╠♞👺 tarot (indo)
-┃╠♞👺 fengshui (indo)
-┃╠♞👺 haribaik (indo)
-┃╠♞👺 harisangar (indo)
-┃╠♞👺 harisial (indo)
-┃╠♞👺 nagahari (indo)
-┃╠♞👺 arahrezeki (indo)
-┃╠♞👺 peruntungan (indo)
-┃╠♞👺 weton (indo)
-┃╠♞👺 karakter (indo)
-┃╠♞👺 keberuntungan (indo)
-┃╠♞👺 memancing (indo)
-┃╠♞👺 masasubur (indo)
-┃╠♞👺 zodiak (indo)
-┃╠♞👺 shio (indo)
+┃╠💆‍ nomorhoki (indo)
+┃╠💆‍ artimimpi (indo)
+┃╠💆‍ artinama (indo)
+┃╠💆‍ ramaljodoh (indo)
+┃╠💆‍ ramaljodohbali (indo)
+┃╠💆‍ suamiistri (indo)
+┃╠💆‍ ramalcinta (indo)
+┃╠💆‍ cocoknama (indo)
+┃╠💆‍ pasangan (indo)
+┃╠💆‍ jadiannikah (indo)
+┃╠💆‍ sifatusaha (indo)
+┃╠💆‍ rezeki (indo)
+┃╠💆‍ pekerjaan (indo)
+┃╠💆‍ nasib (indo)
+┃╠💆‍ penyakit (indo)
+┃╠💆‍ tarot (indo)
+┃╠💆‍ fengshui (indo)
+┃╠💆‍ haribaik (indo)
+┃╠💆‍ harisangar (indo)
+┃╠💆‍ harisial (indo)
+┃╠💆‍ nagahari (indo)
+┃╠💆‍ arahrezeki (indo)
+┃╠💆‍ peruntungan (indo)
+┃╠💆‍ weton (indo)
+┃╠💆‍ karakter (indo)
+┃╠💆‍ keberuntungan (indo)
+┃╠💆‍ memancing (indo)
+┃╠💆‍ masasubur (indo)
+┃╠💆‍ zodiak (indo)
+┃╠💆‍ shio (indo)
 ┃╚═════════════☬
 ┗━━❯ ${pushname} ❮━😎`,unicorn, [{"urlButton": {"displayText": `${button}`,"url": `${btnurl}`}},{"urlButton": {"displayText": "🔖BOT SCRIPT🔖","url": `https://github.com/malindunimsara/DARK-DEVIL-MD-BOT`}},{"quickReplyButton": {"displayText": "😂DONATE😂","id": 'donate'}},{"quickReplyButton": {"displayText": "🤠Owner👨‍💻","id": 'owner'}}] )
 break
