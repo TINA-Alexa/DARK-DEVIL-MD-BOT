@@ -202,11 +202,11 @@ module.exports = RedDragonMdNx = async (RedDragonMdNx, m, chatUpdate, store) => 
 	
 	//group target \\
 const reply = (teks) => {
-            RedDragonMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` ☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./DevilMedia/image/dark-devil.jpg`),"sourceUrl": "https://i.ibb.co/7zP068j/DEVIL-PHISH.jpg"}}}, { quoted: m})
+            RedDragonMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` ☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./DevilMedia/image/dark-devil.jpg`),"sourceUrl": "https://data.1freewallpapers.com/download/samantha-hot-1600x900.jpg"}}}, { quoted: m})
         }
         
         const replay = (teks) => {
-            RedDragonMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` ☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./DevilMedia/image/dark-devil.jpg`),"sourceUrl": "https://i.ibb.co/7zP068j/DEVIL-PHISH.jpg"}}}, { quoted: m})
+            RedDragonMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` ☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./DevilMedia/image/dark-devil.jpg`),"sourceUrl": "https://data.1freewallpapers.com/download/samantha-hot-1600x900.jpg"}}}, { quoted: m})
         }
 	
         //Public & Self\\
@@ -3391,8 +3391,8 @@ reply(`Successfully Reported To The Owner\n\nPlease Make Sure The Bug Is Valid, 
                     case 'bot': case 'alive': case 'menu': case 'list':
                         timestampe = speed();
                         latensie = speed() - timestampe
-                        var unicorn = await getBuffer('https://i.ibb.co/7zP068j/DEVIL-PHISH.jpg')
-                        await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `╔●●🔥${botname}\n▌ ╠ Hi, ${pushname} ╣\n╚●●●❖╠👨‍💻_𝐈 𝐚𝐦 𝐀𝐥𝐢𝐯𝐞_👨‍💻╣\n▌⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀:\n▌❮✮❯ 𝘽𝙤𝙩 𝙉𝙖𝙢𝙚 :${global.botname}\n▌❮✮❯ 𝙊𝙬𝙣𝙚𝙧 𝙉𝙖𝙢𝙚 :${global.ownername}\n▌❮✮❯ 𝙊𝙬𝙣𝙚𝙧 𝙉𝙪𝙢𝙗𝙚𝙧 :${global.owner}\n▌❮✮❯ 𝙎𝙥𝙚𝙚𝙙 : ${latensie.toFixed(4)} miliseconds\n▌❮✮❯ 𝙋𝙡𝙖𝙩𝙛𝙤𝙧𝙢 : ${os.platform()}\n▌⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀:\n${global.alivemsg}\n╗\n${global.namedd}\n❯❯●●●●●●●●●●     ●●●●●●●●●●❮❮`,unicorn, [{
+                        var unicorn = await getBuffer('https://data.1freewallpapers.com/download/samantha-hot-1600x900.jpg')
+                        await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `─ ⋞ 〈🛑 *🄷🄴🅈 🅃🄷🄴🅁🄴* 🛑〉 ⋟ ─\n▌⫺ ╤╤╧╧╤╤ ⋞ 〈 ⫹⫺ 〉 ⋟ ╤╤╧╧╤╤ ⫹\n▌   ‍  ‍ 🔴 *𝐁𝐨𝐭 𝐎𝐧𝐥𝐢𝐧𝐞 𝐍𝐎𝐖* ‼️\n▌⫺ ╧╧╧╧╧╧ ⋞ 〈 ⫹⫺ 〉 ⋟ ╧╧╧╧╧╧ ⫹\n▌\n▌ ‍ ❯❯ *🅱️🅾️🆃 🅸🅽🅵🅾️* ❮❮\n▌\n▌⛥❮ *𝚂𝚙𝚎𝚎𝚍*❯ *0.0111 𝘔𝘪𝘭𝘪𝘴𝘦𝘤𝘰𝘯𝘥𝘴*\n▌⛥❮ *𝚁𝚞𝚗𝚝𝚒𝚖𝚎*❯ *10 𝘏𝘰𝘶𝘳𝘴,49 𝘔𝘪𝘯𝘶𝘵𝘦𝘴*\n▌⛥❮ *𝙱𝚘𝚝 𝙽𝚊𝚖𝚎*❯ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*\n▌⛥❮ *𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖*❯ *𝘓𝘪𝘯𝘶𝘹*\n▌⛥❮ *𝚃𝚘𝚝𝚊𝚕 𝚄𝚜𝚎𝚛*❯ *999*\n▌⛥❮ *𝙾𝚠𝚗𝚎𝚛   𝙽𝚊𝚖𝚎*❯ *𝚆𝚊_𝚋𝚘𝚝 24/7*\n▌⛥❮ *𝙾𝚠𝚗𝚎𝚛 𝙽𝚞𝚖𝚋𝚎𝚛*❯ +94758663348\n▌\n▌⫺ ╧╧╧╧╧╧ ⋞ 〈 ⫹⫺ 〉 ⋟ ╧╧╧╧╧╧ ⫹`,unicorn, [{
                             urlButton: {
                             displayText: '🔖BOT SCRIPT🔖',
                             url: '🫡අන්තරස් දහන්...ඒස්වා පුහ්!!🫡'
