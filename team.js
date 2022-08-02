@@ -3918,7 +3918,7 @@ case 'allmenu': case 'menuall': {
 ┃╠💆‍ shio (indo)
 ┃║
 ┃╚═══════✍︎☬
-┗━❯ *Created By ${ownername}*`,
+┗━❯ *Created By 💆‍♂️#𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙_𝚋𝚘𝚝 24/7💆‍♂️`,
                 footer: RedDragonMdNx.user.name,
                 buttons,
                 headerType: 4
