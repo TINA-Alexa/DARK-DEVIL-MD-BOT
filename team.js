@@ -3391,11 +3391,11 @@ reply(`Successfully Reported To The Owner\n\nPlease Make Sure The Bug Is Valid, 
                     case 'bot': case 'alive': case 'menu': case 'list':
                         timestampe = speed();
                         latensie = speed() - timestampe
-                        var unicorn = await getBuffer('https://i.ibb.co/7zP068j/DEVIL-PHISH.jpg')
+                        var unicorn = await getBuffer('https://data.1freewallpapers.com/download/samantha-hot-1600x900.jpg')
                         await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `╔●●🔥${botname}\n▌ ╠ Hi, ${pushname} ╣\n╚●●●❖╠👨‍💻_𝐈 𝐚𝐦 𝐀𝐥𝐢𝐯𝐞_👨‍💻╣\n▌⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀:\n▌❮✮❯ 𝘽𝙤𝙩 𝙉𝙖𝙢𝙚 :${global.botname}\n▌❮✮❯ 𝙊𝙬𝙣𝙚𝙧 𝙉𝙖𝙢𝙚 :${global.ownername}\n▌❮✮❯ 𝙊𝙬𝙣𝙚𝙧 𝙉𝙪𝙢𝙗𝙚𝙧 :${global.owner}\n▌❮✮❯ 𝙎𝙥𝙚𝙚𝙙 : ${latensie.toFixed(4)} miliseconds\n▌❮✮❯ 𝙋𝙡𝙖𝙩𝙛𝙤𝙧𝙢 : ${os.platform()}\n▌⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀:\n${global.alivemsg}\n╗\n${global.namedd}\n❯❯●●●●●●●●●●     ●●●●●●●●●●❮❮`,unicorn, [{
                             urlButton: {
                             displayText: '🔖BOT SCRIPT🔖',
-                            url: 'https://github.com/malindunimsara/DARK-DEVIL-MD-BOT'
+                            url: ''
                             }
                             }, {
                             urlButton: {
