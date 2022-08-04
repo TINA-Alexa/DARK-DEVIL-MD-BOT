@@ -3426,7 +3426,7 @@ reply(`Successfully Reported To The Owner\n\nPlease Make Sure The Bug Is Valid, 
                             let buttons = [{
                                 urlButton: {
                                 displayText: '🔖BOT SCRIPT🔖',
-                                url: 'https://github.com/malindunimsara/DARK-DEVIL-MD-BOT'
+                                url: ''
                                 }
                                 }, {
                                 urlButton: {
