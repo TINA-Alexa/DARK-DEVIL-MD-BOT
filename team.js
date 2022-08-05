@@ -2116,7 +2116,7 @@ break
                 let quality = args[1] ? args[1] : '128kbps'
                 let media = await yta(text, quality)
                 if (media.filesize >= 999999) return reply('File Over Limit '+util.format(media))
-                RedDragonMdNx.sendImage(m.chat, media.thumb, `┍──✨${botname}\n\n🎸📸 Title : ${media.title}\n🎸📸 File Size : ${media.filesizeF}\n🎸📸 Url : ${isUrl(text)}\n🎸📸 Ext : MP3\n🎸📸 Resolution : ${args[1] || '128kbps'}\n────────────────────────┙\n\n*ᴅᴇᴠɪʟ ʙᴏᴛ © ᴘʀɪᴠᴇᴛ ᴇᴅɪᴛɪᴏɴ*`, m)
+                RedDragonMdNx.sendImage(m.chat, media.thumb, `┍──✨${botname}\n\n🎸📸 Title : ${media.title}\n🎸📸 File Size : ${media.filesizeF}\n🎸📸 Url : ${isUrl(text)}\n🎸📸 Ext : MP3\n🎸📸 Resolution : ${args[1] || '128kbps'}\n────────────────────────┙\n\n❖_*𝙼𝚒𝚜𝚜 𝚀𝚎𝚎𝚗 𝘞𝘈 𝘣𝘰𝘵*_❖`, m)
                 RedDragonMdNx.sendMessage(m.chat, { audio: { url: media.dl_link }, mimetype: 'audio/mpeg', fileName: `${media.title}.mp3` }, { quoted: m })
             }
             break
@@ -2126,7 +2126,7 @@ break
                 let quality = args[1] ? args[1] : '360p'
                 let media = await ytv(text, quality)
                 if (media.filesize >= 999999) return reply('File Over Limit '+util.format(media))
-                RedDragonMdNx.sendMessage(m.chat, { video: { url: media.dl_link }, mimetype: 'video/mp4', fileName: `${media.title}.mp4`, caption: `┍──✨${botname}\n\n🎸📸 Title : ${media.title}\n🎸📸 File Size : ${media.filesizeF}\n🎸📸 Url : ${isUrl(text)}\n🎸📸 Ext : MP3\n🎸📸 Resolution : ${args[1] || '360p'}\n────────────────────────┙\n\n*ᴅᴇᴠɪʟ ʙᴏᴛ © ᴘʀɪᴠᴇᴛ ᴇᴅɪᴛɪᴏɴ*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(m.chat, { video: { url: media.dl_link }, mimetype: 'video/mp4', fileName: `${media.title}.mp4`, caption: `┍──✨${botname}\n\n🎸📸 Title : ${media.title}\n🎸📸 File Size : ${media.filesizeF}\n🎸📸 Url : ${isUrl(text)}\n🎸📸 Ext : MP3\n🎸📸 Resolution : ${args[1] || '360p'}\n────────────────────────┙\n\n❖_*𝙼𝚒𝚜𝚜 𝚀𝚎𝚎𝚗 𝘞𝘈 𝘣𝘰𝘵*_❖` }, { quoted: m })
             }
             break
 	    case 'getmusicxxx': {
@@ -2135,7 +2135,7 @@ break
                 let quality = args[1] ? args[1] : '128kbps'
                 let media = await yta(urls[text - 1], quality)
                 if (media.filesize >= 100000) return reply('File Over Limit '+util.format(media))
-                RedDragonMdNx.sendImage(m.chat, media.thumb, `┍──✨${botname}\n\n🎸📸 Title : ${media.title}\n🎸📸 File Size : ${media.filesizeF}\n🎸📸 Url : ${urls[text - 1]}\n🎸📸 Ext : MP3\n🎸📸 Resolution : ${args[1] || '128kbps'}\n────────────────────────┙\n\n*ᴅᴇᴠɪʟ ʙᴏᴛ © ᴘʀɪᴠᴇᴛ ᴇᴅɪᴛɪᴏɴ*`, m)
+                RedDragonMdNx.sendImage(m.chat, media.thumb, `┍──✨${botname}\n\n🎸📸 Title : ${media.title}\n🎸📸 File Size : ${media.filesizeF}\n🎸📸 Url : ${urls[text - 1]}\n🎸📸 Ext : MP3\n🎸📸 Resolution : ${args[1] || '128kbps'}\n────────────────────────┙\n\n❖_*𝙼𝚒𝚜𝚜 𝚀𝚎𝚎𝚗 𝘞𝘈 𝘣𝘰𝘵*_❖`, m)
                 RedDragonMdNx.sendMessage(m.chat, { audio: { url: media.dl_link }, mimetype: 'audio/mpeg', fileName: `${media.title}.mp3` }, { quoted: m })
             }
             break
