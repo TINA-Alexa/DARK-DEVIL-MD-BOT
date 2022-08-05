@@ -2089,8 +2089,8 @@ break
                 let buttonMessage = {
                     image: { url: anu.thumbnail },
                     caption: `
-═════👹☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰══════╗\n
-──────💕𝒀𝒐𝒖𝑻𝒖𝒃𝒆 𝑫𝒐𝒘𝒏𝒍𝒐𝒅𝒆𝒓💕────────\n
+═*𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰══\n
+─💕𝒀𝒐𝒖𝑻𝒖𝒃𝒆 𝑫𝒐𝒘𝒏𝒍𝒐𝒅𝒆𝒓💕─\n
 ⛄ *Title* : ${anu.title}
 📺 *Channel* : ${anu.author.url}
 ✍️ *Author* : ${anu.author.name}
@@ -2101,7 +2101,7 @@ break
 📤 *Uploaded On* : ${anu.ago}
 📃 *Description* : ${anu.description}
 🖇️ *Url* : ${anu.url}
-═════════════════════════════╝`,
+    ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █`,
                     footer: RedDragonMdNx.user.name,
                     buttons: buttons,
                     headerType: 4
@@ -3257,44 +3257,44 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             }
             break
             case 'info': case 'about':{
-                reply(`🤭🌹Hi,\nI am ☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰\nCreated by: Malindu Nimsara\n\nᴅᴇᴠɪʟ ʙᴏᴛ © ᴘʀɪᴠᴇᴛ ᴇᴅɪᴛɪᴏɴ`)
+                reply(`🤭🌹Hi,\nI am ☬ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵*🇱🇰\nCreated by: 💆‍♂️𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙_𝚋𝚘𝚝 #24/7💆‍♂️\n\❖*𝙼𝚒𝚜𝚜 𝚀𝚎𝚎𝚗 𝘞𝘈 𝘣𝘰𝘵*❖`)
             }
             break
         //chat bot\\
             case 'ba': case 'බැ': case 'බෑ': case 'බැහැ': {
-                RedDragonMdNx.sendMessage(from, { text: `*බැරි නම් නිකං ඉන්න😏*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*බෑයි කියලා බෑයි කියලා බෑ...බෑ බෑ!*` }, { quoted: m })
             }
             break
             case 'whoththo': case 'හුත්තෝ': case 'පකය': case 'pakaya': case 'කැරියා': case 'කැම්රි': case 'කැම්රියා': case 'kamriya': case 'humtha': case 'හුත්ති': case 'හුම්ත': case 'හුම්ති': case 'පම්ක': case 'වේසි': case 'වේම්සි': case 'ඇට දෙක': case 'hutti': case 'kari': case 'besikaya': case 'බේසික': case 'පකය': case 'pamka': case 'පොයන්නා': case 'පොන්නයා': case 'පින්නයා': case 'pinnaya': case 'wesi': case 'බඩුව': case 'baduwa': case 'ukkapan': case 'උක්': case 'පයිය': case 'පුක': case 'puka': case 'pumka':{
-                RedDragonMdNx.sendMessage(from, { text: `*කුනුහරුප කියන්න එපා පගෝ😑💔*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*පරුශ වචන නොකියනු මිතුර!*` }, { quoted: m })
             }
             break
             case 'ado': case 'අඩෝ':{
-                RedDragonMdNx.sendMessage(from, { text: `*මොකෝ ඩෝ😏*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*කියපන් මොකො කේස් එක*` }, { quoted: m })
             }
             break
             case 'moko': case 'මොකෝ':{
-                RedDragonMdNx.sendMessage(from, { text: `*ඇයි ඇයි මොකෝ😤*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*ඒක තමා මාත් අහන්නෙ ඕයි*` }, { quoted: m })
             }
             break
             case 'bllo': case 'bamla': case 'බල්ලො': case 'බල්ලා': case 'බම්ලො': case 'බම්ලා': {
-                RedDragonMdNx.sendMessage(from, { text: `*එන්නෙපා බල්ල ගාගෙන, බල්ල😒💔💔*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*පරුශ වචන නොකියනු මිතුර!*` }, { quoted: m })
             }
             break
             case 'හායි': case 'hi':{
-                RedDragonMdNx.sendMessage(from, { text: `*☺️හායි ඉතින් කොහොමද☺️*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `හායි bro` }, { quoted: m })
             }
             break
             case 'kolukaraya': case 'කොලුකාරයා':{
-                RedDragonMdNx.sendMessage(from, { text: `*ආස නෑ මහත්තයො😒*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*පරුශ වචන නොකියනු මිතුර!*` }, { quoted: m })
             }
             break
             case 'haminenawane': case 'හැමිනෙනවනෙ':{
-                RedDragonMdNx.sendMessage(from, { text: `*අනේ පල😂*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*පරුශ වචන නොකියනු මිතුර!*` }, { quoted: m })
             }
             break
             case 'e': case 'ee': case 'ඒ':{
-                RedDragonMdNx.sendMessage(from, { text: `*මොකෝ😏*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*මොකෝ බොල*` }, { quoted: m })
             }
             break
             case 'ane': case 'අනෙ': case 'අනේ':{
@@ -3302,47 +3302,47 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             }
             break
             case 'ow': case 'ඔව්': case 'ඕ': case 'oo':{
-                RedDragonMdNx.sendMessage(from, { text: `*එහෙනම් එච්චරයි🤭*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*ම්ම්...සුපිරියක්*` }, { quoted: m })
             }
             break
             case 'halo': case 'hello': case 'haloo': case 'හලො': case 'හලෝ': case 'හලූ':{
-                RedDragonMdNx.sendMessage(from, { text: `*🌝මොකෝ හලෝ🤭*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*හලෝ හලෝ...*` }, { quoted: m })
             }
             break
             case 'danna': case 'danne na': case 'දන්නෑ': case 'දන්නෙ නෑ':{
-                RedDragonMdNx.sendMessage(from, { text: `*මං දන්නෙත් නෑ☹️*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*එහෙම වෙන්න බෑනෙ*` }, { quoted: m })
             }
             break
             case 'ko': case 'koo': case 'කෝ': case 'කො':{
-                RedDragonMdNx.sendMessage(from, { text: `*මං දන්නෙත් නෑ☹️*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*අන්තරස් දහන්...*` }, { quoted: m })
             }
             break
             case 'kamak': case 'kamanna': case 'කමක්': case 'කමන්නෑ':{
-                RedDragonMdNx.sendMessage(from, { text: `*එහෙනම් එච්චරයි...😂👍*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*ගැම්මක් තමා...*` }, { quoted: m })
             }
             break
             case 'balamu': case 'balanna': case 'බලමු': case 'බලන්න':{
-                RedDragonMdNx.sendMessage(from, { text: `*බලමුකෝ😂👍*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*බෑ බෑ බලන්න බෑ යකො*` }, { quoted: m })
             }
             break
             case 'pala': case 'palayan': case 'පල': case 'පලහ්': case 'පලයන්': case 'පලකො':{
-                RedDragonMdNx.sendMessage(from, { text: `*උබ පලයන්😒💔*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*එහෙමද ආසා...*` }, { quoted: m })
             }
             break
             case 'aththada': case 'ඇත්තද': case 'සිරාද': case 'ඇත්තෙයි': case 'අම්මපා': case 'ඇත්ත':{
-                RedDragonMdNx.sendMessage(from, { text: `*සිරා බන්.😒*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*සිරාවටම.😒*` }, { quoted: m })
             }
             break
             case 'gm': case 'goodmorning': case 'gummoninm': case 'ගුඩ්මෝනිං': case 'ගුම්මෝනිං': case 'ගුඩ්මෝනිං😌': case 'ගුම්මෝනිං❤️': case 'ගුඩ්මෝනිම්':{
-                RedDragonMdNx.sendMessage(from, { text: `*😍ගුඩ් මෝනින් මැණික😘*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*ගුඩ් මෝනින් අනේ*` }, { quoted: m })
             }
             break
             case 'gn': case 'goodnight': case 'gumnight': case 'ගුඩ්නයිට්': case 'ගුම්නයිත්': case 'ගුඩ්නයිට්😌': case 'ගුම්නයිට්❤️': case 'ගුඩ්නයිට්🌚❤️':{
-                RedDragonMdNx.sendMessage(from, { text: `*සුභ රාත්‍රියක්😂😂😂*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*සුභ රාත්‍රියක් හූත හීන පෙනේවා..*` }, { quoted: m })
             }
             break
             case '🥰': case '😗': case '😙': case '😘😘': case '😘': case '😍': case 'umma': case '💗':{
-                RedDragonMdNx.sendMessage(from, { text: `*😘අයි ලව් යූ💗උම්මාහ්🥰🥰🤓*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*ආදරෙයි ආදරෙයි ආ...*` }, { quoted: m })
             }
             break
             case 'වැලක්':{
@@ -3350,7 +3350,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             }
             break
             case 'na': case 'naa': case 'නැ': case 'නෑ': case 'නෑනෙ': case 'nane': case 'naha': case 'නැතෝ':{
-                RedDragonMdNx.sendMessage(from, { text: `*හේ හේ, නැද්ද☹️*` }, { quoted: m })
+                RedDragonMdNx.sendMessage(from, { text: `*සිරාවටම නැද්ද ඕයි...*` }, { quoted: m })
             }
             break
             /////////////////////////////////////////////
@@ -3391,7 +3391,7 @@ reply(`Successfully Reported To The Owner\n\nPlease Make Sure The Bug Is Valid, 
                     case 'bot': case 'alive': case 'menu': case 'list':
                         timestampe = speed();
                         latensie = speed() - timestampe
-                        var unicorn = await getBuffer('https://ibb.co/1QFswXn')
+                        var unicorn = await getBuffer('https://ibb.co/4FckpHC')
                         await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `╔●●🔥${botname}\n▌ ╠ Hi, ${pushname} ╣\n╚●●●❖╠👨‍💻_𝐈 𝐚𝐦 𝐀𝐥𝐢𝐯𝐞_👨‍💻╣\n▌⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀:\n▌❮✮❯ 𝘽𝙤𝙩 𝙉𝙖𝙢𝙚 :${global.botname}\n▌❮✮❯ 𝙊𝙬𝙣𝙚𝙧 𝙉𝙖𝙢𝙚 :${global.ownername}\n▌❮✮❯ 𝙊𝙬𝙣𝙚𝙧 𝙉𝙪𝙢𝙗𝙚𝙧 :${global.owner}\n▌❮✮❯ 𝙎𝙥𝙚𝙚𝙙 : ${latensie.toFixed(4)} miliseconds\n▌❮✮❯ 𝙋𝙡𝙖𝙩𝙛𝙤𝙧𝙢 : ${os.platform()}\n▌⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀:\n${global.alivemsg}\n╗\n${global.namedd}\n❯❯●●●●●●●●●●     ●●●●●●●●●●❮❮`,unicorn, [{
                             urlButton: {
                             displayText: '🔖BOT SCRIPT🔖',
