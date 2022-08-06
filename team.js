@@ -3392,7 +3392,7 @@ reply(`Successfully Reported To The Owner\n\nPlease Make Sure The Bug Is Valid, 
                         timestampe = speed();
                         latensie = speed() - timestampe
                         var unicorn = await getBuffer('https://ibb.co/4FckpHC')
-                        await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', `╔●●🔥${botname}\n▌ ╠ Hi, ${pushname} ╣\n╚●●●❖╠👨‍💻_𝐈 𝐚𝐦 𝐀𝐥𝐢𝐯𝐞_👨‍💻╣\n▌⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀:\n▌❮✮❯ 𝘽𝙤𝙩 𝙉𝙖𝙢𝙚 :${global.botname}\n▌❮✮❯ 𝙊𝙬𝙣𝙚𝙧 𝙉𝙖𝙢𝙚 :${global.ownername}\n▌❮✮❯ 𝙊𝙬𝙣𝙚𝙧 𝙉𝙪𝙢𝙗𝙚𝙧 :${global.owner}\n▌❮✮❯ 𝙎𝙥𝙚𝙚𝙙 : ${latensie.toFixed(4)} miliseconds\n▌❮✮❯ 𝙋𝙡𝙖𝙩𝙛𝙤𝙧𝙢 : ${os.platform()}\n▌⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀⦀:\n${global.alivemsg}\n╗\n${global.namedd}\n❯❯●●●●●●●●●●     ●●●●●●●●●●❮❮`,unicorn, [{
+                        await RedDragonMdNx.send5ButImg(from, `` + '' + ' ', ``,unicorn, [{
                             urlButton: {
                             displayText: '🔖BOT SCRIPT🔖',
                             url: ''
