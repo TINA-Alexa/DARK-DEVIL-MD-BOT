@@ -2132,7 +2132,7 @@ break
 	    case 'getmusicxxx': {
                 let { yta } = require('./lib/y2mate')
 		let urls = quoted.text.match(new RegExp(/(?:https?:\/\/)?(?:youtu\.be\/|(?:www\.|m\.)?youtube\.com\/(?:watch|v|embed|shorts)(?:\.php)?(?:\?.*v=|\/))([a-zA-Z0-9\_-]+)/, 'gi'))
-                let quality = args[1] ? args[1] : '128kbps'❮🫣❯ ➠
+                let quality = args[1] ? args[1] : '128kbps'
                 let media = await yta(urls[text - 1], quality)
                 if (media.filesize >= 100000) return reply('File Over Limit '+util.format(media))
                 RedDragonMdNx.sendImage(m.chat, media.thumb, `┍──✨${botname}\n\n❮🫣❯ ➠ Title : ${media.title}\n❮🫣❯ ➠ File Size : ${media.filesizeF}\n❮🫣❯ ➠ Url : ${urls[text - 1]}\n❮🫣❯ ➠ Ext : MP3\n❮🫣❯ ➠ Resolution : ${args[1] || '128kbps'}\n────────────────────────┙\n\n❖_*𝙼𝚒𝚜𝚜 𝚀𝚎𝚎𝚗 𝘞𝘈 𝘣𝘰𝘵*_❖`, m)
@@ -2157,7 +2157,7 @@ break
 		let { pinterest } = require('./lib/scraper')
                 anu = await pinterest(text)
                 result = anu[Math.floor(Math.random() * anu.length)]
-                RedDragonMdNx.sendMessage(m.chat, { image: { url: result }, caption: '❮🫣❯ ➠ Media Url : '+result }, { quoted: m })
+                RedDragonMdNx.sendMessage(m.chat, { image: { url: result }, caption: ' Media Url : '+result }, { quoted: m })
             }
             break
 case 'webtonsearch': case 'webtoon':
