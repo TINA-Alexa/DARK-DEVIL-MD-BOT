@@ -2022,9 +2022,9 @@ break
 	      type: "auto",
 	      scale: "100%",
 	      outputFile 
-	    }).then(async result => {❮🫣❯ ➠
+	    }).then(async result => {
 	    RedDragonMdNx.sendMessage(m.chat, {image: fs.readFileSync(outputFile), caption: mess.success}, { quoted : m })
-	    await fs.unlinkSync(localFile)❮🫣❯ ➠
+	    await fs.unlinkSync(localFile)
 	    await fs.unlinkSync(outputFile)
 	    })
 	    }
