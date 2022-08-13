@@ -2298,7 +2298,7 @@ case 'webtonsearch': case 'webtoon':
             case 'wallpaper': {
                 if (!text) return reply(`Enter Query Title`)
 		let { wallpaper } = require('./lib/scraper')
-                anu = await wallpaper(text)❮🫣❯ ➠
+                anu = await wallpaper(text)
                 result = anu[Math.floor(Math.random() * anu.length)]
 		let buttons = [
                     {buttonId: `wallpaper ${text}`, buttonText: {displayText: '➡️Next Image➡️'}, type: 1}
