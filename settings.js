@@ -41,8 +41,8 @@ global.ownernomer = '+94758663348' //Owner Number <<<
 global.ownername = '💆‍♂️𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙_𝚋𝚘𝚝 #24/7💆‍♂️' //Owner Name
 global.botname = '𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵' //Bot Name
 
-global.button = '🖥️GITHUB〽️' //Costomize A Button Name In Alive Message
-global.btnurl = '____________' //Change Your Button's URL
+global.button = '🖥️𝙱𝙰𝚁𝙰𝚉𝙰 𝚃𝚅 𝙻𝙸𝚅𝙴〽️' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/chunklist_w1227645751.m3u8' //Change Your Button's URL
 
 global.region = 'srilanka' //Country Region
 
