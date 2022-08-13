@@ -2091,7 +2091,7 @@ break
                     caption: `
 ⫺╤╤╧ *𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵* ╧╤╤⫹\n
 ─💕𝒀𝒐𝒖𝑻𝒖𝒃𝒆 𝑫𝒐𝒘𝒏𝒍𝒐𝒅𝒆𝒓💕─\n
-⛄ *Title* : ${anu.title❮🫣❯ ❮🫣❯ ➠
+⛄ *Title* : ${anu.title}
 📺 *Channel* : ${anu.author.url}
 ✍️ *Author* : ${anu.author.name}
 🎶 *Ext* : Search
@@ -2101,7 +2101,7 @@ break
 📤 *Uploaded On* : ${anu.ago}
 📃 *Description* : ${anu.description}
 🖇️ *Url* : ${anu.url}
-⫺ ╧╧╧╧╧╧ ⋞ 〈 ⫹⫺ 〉 ⋟ ╧╧╧╧╧╧ ❮🫣❯ ➠❮🫣❯ ➠❮🫣❯ ➠
+⫺ ╧╧╧╧╧╧ ⋞ 〈 ⫹⫺ 〉 ⋟ ╧╧╧╧╧╧ ⫹`,
                     footer: RedDragonMdNx.user.name,
                     buttons: buttons,
                     headerType: 4
@@ -2110,7 +2110,7 @@ break
             }
          
 	        break
-	    case 'ytmp3': case 'getmusic': case 'ytaudio': {❮🫣❯ ➠❮🫣❯ ➠❮🫣❯ ➠❮🫣❯ ➠❮🫣❯ ➠
+	    case 'ytmp3': case 'getmusic': case 'ytaudio': {
                 let { yta } = require('./lib/y2mate')
                 if (!text) return reply(`Example : ${prefix + command} https://youtube.com/watch?v=PtFMh6Tccag%27 128kbps`)
                 let quality = args[1] ? args[1] : '128kbps'
