@@ -2124,7 +2124,7 @@ break
                 let { ytv } = require('./lib/y2mate')
                 if (!text) return reply(`Example : ${prefix + command} https://youtube.com/watch?v=PtFMh6Tccag%27 360p`)
                 let quality = args[1] ? args[1] : '360p'
-                let media = await ytv(text, quality❮🫣❯ ❮🫣❯ ➠
+                let media = await ytv(text, quality
                 if (media.filesize >= 999999) return reply('File Over Limit '+util.format(media))
                 RedDragonMdNx.sendMessage(m.chat, { video: { url: media.dl_link }, mimetype: 'video/mp4', fileName: `${media.title}.mp4`, caption: `┍──✨${botname}\n\n❮🫣❯ ➠ Title : ${media.title}\n❮🫣❯ ➠ File Size : ${media.filesizeF}\n❮🫣❯ ➠ Url : ${isUrl(text)}\n❮🫣❯ ➠ Ext : MP3\n❮🫣❯ ➠ Resolution : ${args[1] || '360p'}\n────────────────────────┙\n\n❖_*𝙼𝚒𝚜𝚜 𝚀𝚎𝚎𝚗 𝘞𝘈 𝘣𝘰𝘵*_❖` }, { quoted: m })
             }
